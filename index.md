@@ -32,10 +32,20 @@ Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](h
 
 ## #67 2017.08.07
 
-[#68](https://www.meetup.com/PyWeb-IL/events/241588798)
+[#67](https://www.meetup.com/PyWeb-IL/events/241588798)
 
 * Miki Tebeka: [Why is Go cool and how can you use it from Python](https://github.com/tebeka/talks/tree/master/go-pyweb) (40 mins)
 * Alon Nisser: [Enterprise integration patterns with messaging](https://alonisser.github.io/integration-patterns-messaging/) (45 mins)
+
+[vimrc of Miki Tebeka](https://github.com/tebeka/talks/blob/master/go-pyweb/vimrc.vim)
+
+## #66 2017.07.03
+
+[#66](https://www.meetup.com/PyWeb-IL/events/240671559)
+
+* Max Braitmaiere and Jenya Privalov: [Real-life Django ORM](https://www.slideshare.net/MaximBraitmaiere/hexadite-real-life-django-orm) (60 minutes)
+* Aur Saraf: The Universe Is Broken: a debugging story (15 mins)
+* Ohad Perry: [Hands-on message broker using Google's pub sub](https://docs.google.com/presentation/d/1yszcUbDsDKAfbFo-XoU0AfZPQ01ySvV7fnb2STCBhDg/edit#slide=id.gc6f73a04f_0_0) (25 mins)
 
 
 ## #62 2017.03.06
