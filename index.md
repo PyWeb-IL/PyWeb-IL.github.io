@@ -10,17 +10,17 @@ Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](h
 
 [#70](https://www.meetup.com/PyWeb-IL/events/243985794)
 
-* Alon Nisser: [Logging - best (And bad) practices](https://alonisser.github.io/logging-talk/)
-* [Nir Galon](http://nirgn.com/): [API Star - Next generation framework!](http://nirgn.com/assets/files/presentations/API_Star.pptx) ([code](https://gist.github.com/nirgn975/9c84175deaad39b1d28a22b6992ca6d4))
-* Michael Sverdlin: [Serverless in Production](https://docs.google.com/presentation/d/1_iVhM7LWbIb5KuFqqaGkuV5XZa0vmtEoHElEzFy3wY4/edit#slide=id.p)
+* Alon Nisser: [Logging - best (And bad) practices](https://alonisser.github.io/logging-talk/) (20 mins)
+* [Nir Galon](http://nirgn.com/): [API Star - Next generation framework!](http://nirgn.com/assets/files/presentations/API_Star.pptx) ([code](https://gist.github.com/nirgn975/9c84175deaad39b1d28a22b6992ca6d4))  (30 mins)
+* Michael Sverdlin: [Serverless in Production](https://docs.google.com/presentation/d/1_iVhM7LWbIb5KuFqqaGkuV5XZa0vmtEoHElEzFy3wY4/edit#slide=id.p) (30 mins)
 
 ## #69 2017.10.02
 
 [#69](https://www.meetup.com/PyWeb-IL/events/243515877)
 
-* Miki Tebeka of [353 Solutions](http://www.353solutions.com/): [Screw DSLs](https://github.com/tebeka/talks/tree/master/screw-dsls)
-* Meir Kriheli: [Intro to Vue.JS](http://meirkriheli.com/en/talks/#vuejs)
-* Aur Saraf: [Lets answer some interesting job interview questions](https://www.dropbox.com/sh/y065y9tavl6juva/AAB32vye9o8q8YN4KmzzMZhxa?dl=0)
+* Miki Tebeka of [353 Solutions](http://www.353solutions.com/): [Screw DSLs](https://github.com/tebeka/talks/tree/master/screw-dsls)  (40 mins)
+* Meir Kriheli: [Intro to Vue.JS](http://meirkriheli.com/en/talks/#vuejs) (50 mins)
+* Aur Saraf: [Lets answer some interesting job interview questions](https://www.dropbox.com/sh/y065y9tavl6juva/AAB32vye9o8q8YN4KmzzMZhxa?dl=0) (30 mins)
 
 ## #68 2017.09.04
 
@@ -60,6 +60,8 @@ Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](h
 
 ## #43 2015.04.13
 
+[#43](https://www.meetup.com/PyWeb-IL/events/221085871)
+
 * David Melamed: Scrapy, a fast and easy framework to scrape any web content (15 minutes)
 * Shay Halsband: [Django with Postgres materialized views](https://www.slideshare.net/shyhalsband/materialized-views-and-django) (20 minutes)
 * Miki Tebeka: "Uncomment Your Code" where I argue why comments are bad for you and without them your code will improve. Includes some potentially life-saving advice. (15 minutes)
@@ -67,7 +69,6 @@ Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](h
 * Benny Daon: Python Enhancement Proposal One (15 minutes)
 
 
-[#43](https://www.meetup.com/PyWeb-IL/events/221085871)
 
 
 ## #38 2014.10.06
