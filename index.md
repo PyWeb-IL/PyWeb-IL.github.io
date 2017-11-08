@@ -22,6 +22,15 @@ Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](h
 * Meir Kriheli: [Intro to Vue.JS](http://meirkriheli.com/en/talks/#vuejs)
 * Aur Saraf: [Lets answer some interesting job interview questions](https://www.dropbox.com/sh/y065y9tavl6juva/AAB32vye9o8q8YN4KmzzMZhxa?dl=0)
 
+## #68 2017.09.04
+
+[#68](https://www.meetup.com/PyWeb-IL/events/242431694) 
+
+* Eli Gur: Hypothesis: A new paradigm in testing (45 mins)
+* (BSD) Avraham Serour: [Actually generate swagger for DRF or GSDAPIISUI](https://docs.google.com/presentation/d/1lpWOwP7munRSrx0v9fWxYTffZYsYmKmAHuzKsyxz78g/edit#slide=id.gcb9a0b074_1_0) (20-30 mins)
+* Mark Geyzer: [Test Automation with Robot Framework](https://www.dropbox.com/s/l3ho11svt6tysrl/RobotFramework.pptx?dl=0) (15-20 mins)
+
+
 ## #62 2017.03.06
 
 [#62](https://www.meetup.com/PyWeb-IL/events/237672764)
