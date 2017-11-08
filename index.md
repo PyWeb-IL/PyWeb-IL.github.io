@@ -26,8 +26,8 @@ Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](h
 
 [#62](https://www.meetup.com/PyWeb-IL/events/237672764)
 
-* Agam Rafaeli: [Pip + Virtualenv under the hood](https://docs.google.com/presentation/d/1PcKXxS6_Fnn7_pa557uCQzQ1phT9IchFjewQPI-htzg/edit#slide=id.g20de8b1e65_0_5) (25 minutes)
-* Haki Benita: Working with APIs the Pythonic way (40 minutes)
-* Aur Saraf: [The implementation of dict](http://rhodesmill.org/brandon/slides/2010-03-pycon/) (10 minutes)
-* Nir Cohen: [The anatomy of a traceback](http://slides.com/nir0s/traceback#/) (25 minutes)
+* [Agam Rafaeli](https://www.linkedin.com/in/agam-rafaeli-038a901b/): [Pip + Virtualenv under the hood](https://docs.google.com/presentation/d/1PcKXxS6_Fnn7_pa557uCQzQ1phT9IchFjewQPI-htzg/edit#slide=id.g20de8b1e65_0_5) (25 minutes)
+* [Haki Benita](https://github.com/hakib): Working with APIs the Pythonic way (40 minutes)
+* [Aur Saraf](https://www.linkedin.com/in/aursaraf/): [The implementation of dict](http://rhodesmill.org/brandon/slides/2010-03-pycon/) (10 minutes)
+* [Nir Cohen](https://github.com/nir0s): [The anatomy of a traceback](http://slides.com/nir0s/traceback#/) (25 minutes)
 
