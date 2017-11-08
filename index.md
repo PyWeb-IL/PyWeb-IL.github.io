@@ -10,9 +10,9 @@ Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](h
 
 [#70](https://www.meetup.com/PyWeb-IL/events/243985794)
 
-* Alon Nisser: Logging - best (And bad) practices
+* Alon Nisser: [Logging - best (And bad) practices](https://alonisser.github.io/logging-talk/)
 * [Nir Galon](http://nirgn.com/): [API Star - Next generation framework!](http://nirgn.com/assets/files/presentations/API_Star.pptx) ([code](https://gist.github.com/nirgn975/9c84175deaad39b1d28a22b6992ca6d4))
-* Michael Sverdlin: Serverless in Production
+* Michael Sverdlin: [Serverless in Production](https://docs.google.com/presentation/d/1_iVhM7LWbIb5KuFqqaGkuV5XZa0vmtEoHElEzFy3wY4/edit#slide=id.p)
 
 ## #69 2017.10.02
 
