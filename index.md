@@ -30,6 +30,13 @@ Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](h
 * (BSD) Avraham Serour: [Actually generate swagger for DRF or GSDAPIISUI](https://docs.google.com/presentation/d/1lpWOwP7munRSrx0v9fWxYTffZYsYmKmAHuzKsyxz78g/edit#slide=id.gcb9a0b074_1_0) (20-30 mins)
 * Mark Geyzer: [Test Automation with Robot Framework](https://www.dropbox.com/s/l3ho11svt6tysrl/RobotFramework.pptx?dl=0) (15-20 mins)
 
+## #67 2017.08.07
+
+[#68](https://www.meetup.com/PyWeb-IL/events/241588798)
+
+* Miki Tebeka: [Why is Go cool and how can you use it from Python](https://github.com/tebeka/talks/tree/master/go-pyweb) (40 mins)
+* Alon Nisser: [Enterprise integration patterns with messaging](https://alonisser.github.io/integration-patterns-messaging/) (45 mins)
+
 
 ## #62 2017.03.06
 
