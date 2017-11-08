@@ -57,3 +57,24 @@ Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](h
 * [Aur Saraf](https://www.linkedin.com/in/aursaraf/): [The implementation of dict](http://rhodesmill.org/brandon/slides/2010-03-pycon/) (10 minutes)
 * [Nir Cohen](https://github.com/nir0s): [The anatomy of a traceback](http://slides.com/nir0s/traceback#/) (25 minutes)
 
+
+## #43 2015.04.13
+
+* David Melamed: Scrapy, a fast and easy framework to scrape any web content (15 minutes)
+* Shay Halsband: [Django with Postgres materialized views](https://www.slideshare.net/shyhalsband/materialized-views-and-django) (20 minutes)
+* Miki Tebeka: "Uncomment Your Code" where I argue why comments are bad for you and without them your code will improve. Includes some potentially life-saving advice. (15 minutes)
+* Rafael Bodill: [Setup your workstations automatically with Ansible playbooks](https://prezi.com/szmkea_ehsih/ansible-command-conquer/) (15 minutes)
+* Benny Daon: Python Enhancement Proposal One (15 minutes)
+
+
+[#43](https://www.meetup.com/PyWeb-IL/events/221085871)
+
+
+## #38 2014.10.06
+
+[#38](https://www.meetup.com/PyWeb-IL/events/208975322)
+
+* Yishai Beeri: High-scale jobs with Twisted & Celery
+* Ram Rachum: Git Scripts  [forward-merge and cascade](https://github.com/cool-RR/git-cascade)
+* Idan Gazit: Pandas 
+
