@@ -11,8 +11,8 @@ Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](h
 [#70](https://www.meetup.com/PyWeb-IL/events/243985794)
 
 * Alon Nisser: Logging - best (And bad) practices
-* Nir Galon: API Star - Next generation framework!
-* Michael Sverdlin: Serverless in Production 
+* [Nir Galon](http://nirgn.com/): [API Star - Next generation framework!](http://nirgn.com/assets/files/presentations/API_Star.pptx) ([code](https://gist.github.com/nirgn975/9c84175deaad39b1d28a22b6992ca6d4))
+* Michael Sverdlin: Serverless in Production
 
 ## #69 2017.10.02
 
@@ -24,7 +24,7 @@ Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](h
 
 ## #68 2017.09.04
 
-[#68](https://www.meetup.com/PyWeb-IL/events/242431694) 
+[#68](https://www.meetup.com/PyWeb-IL/events/242431694)
 
 * Eli Gur: Hypothesis: A new paradigm in testing (45 mins)
 * (BSD) Avraham Serour: [Actually generate swagger for DRF or GSDAPIISUI](https://docs.google.com/presentation/d/1lpWOwP7munRSrx0v9fWxYTffZYsYmKmAHuzKsyxz78g/edit#slide=id.gcb9a0b074_1_0) (20-30 mins)
@@ -56,4 +56,3 @@ Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](h
 * [Haki Benita](https://github.com/hakib): Working with APIs the Pythonic way (40 minutes)
 * [Aur Saraf](https://www.linkedin.com/in/aursaraf/): [The implementation of dict](http://rhodesmill.org/brandon/slides/2010-03-pycon/) (10 minutes)
 * [Nir Cohen](https://github.com/nir0s): [The anatomy of a traceback](http://slides.com/nir0s/traceback#/) (25 minutes)
-
