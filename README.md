@@ -1,4 +1,5 @@
-# Web site of PyWeb-IL hosted at https://pyweb-il.github.io/
+# PyWeb-IL website
+## https://pyweb-il.github.io/
 
 * List presentations.
 * Link to slides.
