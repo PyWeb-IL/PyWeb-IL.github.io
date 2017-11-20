@@ -57,6 +57,15 @@ Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](h
 * Yoav Luft: [Pyparsing, or the case for monads](https://docs.google.com/presentation/d/1m2wg71UaT1OzDRrf6NhejBIKNFV-v2oOVExazse-flU/edit?usp=sharing
 https://github.com/Luftzig/pycon-text-parsing-examples) (25 mins)
 
+## #64 2017.05.08
+
+[#64](https://www.meetup.com/PyWeb-IL/events/238984345/)
+
+* Gabor Szabo: [Using Jenkins as a CI of Python-based projects](https://edumaven.com/jenkins/) (20-30 minutes)
+* Aur Saraf: The Universe Is Broken: a debugging story (15 mins)
+* Miki Tebeka: [REPLing with IPython](https://github.com/tebeka/talks/tree/master/repling-ipy) (30 mins)
+* Amit Aronovitch: [Python Keyring + adding a new backend](https://dl.dropboxusercontent.com/u/1927707/PyWeb-IL%20public/Talk%20material/2017-05-08/Amit%20keyring.zip) (20 mins)
+
 ## #62 2017.03.06
 
 [#62](https://www.meetup.com/PyWeb-IL/events/237672764)
