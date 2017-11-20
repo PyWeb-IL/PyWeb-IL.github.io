@@ -6,6 +6,10 @@ For more details check out our [Meetup page](https://www.meetup.com/PyWeb-IL/).
 Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](https://chipmunkdev.com/) and [Noam Elfanbaum](https://github.com/noamelf) at [noamelf](http://noamelf.com/)
 
 
+## 2017.11.20
+
+* Gabor Szabo: [Collab-dev slides](https://edumaven.com/collab-dev/) 
+
 ## #70 2017.11.06
 
 [#70](https://www.meetup.com/PyWeb-IL/events/243985794)
