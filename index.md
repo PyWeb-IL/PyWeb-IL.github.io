@@ -115,6 +115,14 @@ https://github.com/Luftzig/pycon-text-parsing-examples) (25 mins)
 * Rafael Bodill: [Setup your workstations automatically with Ansible playbooks](https://prezi.com/szmkea_ehsih/ansible-command-conquer/) (15 minutes)
 * Benny Daon: Python Enhancement Proposal One (15 minutes)
 
+## #41 2015.01.05
+
+[#41](https://www.meetup.com/PyWeb-IL/events/218888337/)
+
+* [Pablo Klijnjan](https://twitter.com/pabloklijnjan): Intro to XIV 
+* [Amit Nabarro](http://amitn.me/): SQL vs NOSQL in Django applications -  Considerations, design and implementation decisions. The talk would include a hands-on workshop showing some examples working with MongoDB
+* [Zohar Arad](http://www.zohararad.com/): [Going beyond MongoDB for your NoSQL purposes](http://zohararad.github.io/presentations/outgrowing-mongodb/) - There are quite a few new (read - next gen.) NoSQL DBs that fit use-cases usually filled by MongoDB, but with better scaling capabilities and less headaches (or different ones). So, the point is not to diss Mongo, but to show viable alternatives. Some examples are - ArangoDB, RethinkDB, FoundationDB, HyperDex and Elastic Search (there are many more but these come to mind at the moment).
+
 ## #40 2014.12.01
 
 [#40](https://www.meetup.com/PyWeb-IL/events/216085492/)
