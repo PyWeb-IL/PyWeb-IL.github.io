@@ -103,6 +103,13 @@ Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](h
 * [Aur Saraf](https://www.linkedin.com/in/aursaraf/): [The implementation of dict](http://rhodesmill.org/brandon/slides/2010-03-pycon/) (10 minutes)
 * [Nir Cohen](https://github.com/nir0s): [The anatomy of a traceback](http://slides.com/nir0s/traceback#/) (25 minutes)
 
+## #44 2015.05.04
+
+[#44](https://www.meetup.com/PyWeb-IL/events/221821038/)
+
+* Meir Kriheli: What's new in Django 1.8 (1 hour)
+* Noam Elfanbaum: [Coroutines Magic! There is so much more to yield.](https://github.com/noamelf/intro-to-python-coroutines-talk)  (45 minutes)
+* Shai Berger: Lispisms -- things Python (and Django) can learn from Lisp (45 minutes)
 
 ## #43 2015.04.13
 
