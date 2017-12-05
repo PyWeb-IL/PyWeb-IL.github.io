@@ -13,13 +13,13 @@ Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](h
 
 [#71](https://www.meetup.com/PyWeb-IL/events/245071494/)
 
-* [Noam Tenne](http://www.10ne.org/): [Python Needs a Better Testing Framework](https://github.com/noamt/presentations/tree/master/we-need-a-better-testing-framework) about [Nimoy](https://github.com/browncoat-ninjas/nimoy) (30 mins) 
+* [Noam Tenne](http://www.10ne.org/): [Python Needs a Better Testing Framework](https://github.com/noamt/presentations/tree/master/we-need-a-better-testing-framework) about [Nimoy](https://github.com/browncoat-ninjas/nimoy) (30 mins)
 * [Tal Einat](https://github.com/taleinat): [Playing with Cython](https://taleinat.github.io/playing_with_cython/) (30 mins)
 * [Nir Galon](http://nirgn.com/): [Pipenv: The future of Python dependency management](https://docs.google.com/presentation/d/e/2PACX-1vTzr6aOFunDqTBbSkOBGZin5GqJN4QJLXXNZXLMfQQCXHfneiDx57vcwOmOUeuYVSW6e6iEETDkeWcX/pub?start=false&loop=false&delayms=3000) (20 mins)
 
 ## 2017.11.20
 
-* Gabor Szabo: [Collab-dev slides](https://edumaven.com/collab-dev/) 
+* Gabor Szabo: [Collab-dev slides](https://edumaven.com/collab-dev/)
 
 ## #70 2017.11.06
 
@@ -77,9 +77,15 @@ https://github.com/Luftzig/pycon-text-parsing-examples) (25 mins)
 [#64](https://www.meetup.com/PyWeb-IL/events/238984345/)
 
 * Gabor Szabo: [Using Jenkins as a CI of Python-based projects](https://edumaven.com/jenkins/) (20-30 minutes)
-* Aur Saraf: The Universe Is Broken: a debugging story (15 mins)
+* [Aur Saraf](https://www.linkedin.com/in/aursaraf): The Universe Is Broken: a debugging story (15 mins)
 * Miki Tebeka: [REPLing with IPython](https://github.com/tebeka/talks/tree/master/repling-ipy) (30 mins)
 * Amit Aronovitch: [Python Keyring + adding a new backend](https://dl.dropboxusercontent.com/u/1927707/PyWeb-IL%20public/Talk%20material/2017-05-08/Amit%20keyring.zip) (20 mins)
+
+## #63 2017.04.03
+
+* [Lior Mizrachi](https://github.com/liormizr): [Exceptional Python - Error handling tips](https://github.com/liormizr/error_handling_talk) (30 mins)
+* Paul Walsh and Adam Kariv: [Frictionless Data: Lightweight standards and tooling to make it effortless to get, share, and validate data.](https://hackmd.io/p/S1fZiX_he#/) (50 mins) See also [Frictionless Data on GitHub](https://github.com/frictionlessdata/)
+* [Aur Saraf](https://www.linkedin.com/in/aursaraf): [The implementation of pytest assertions](https://speakerdeck.com/oinopion/dispelling-py-dot-test-magic) (10 mins)
 
 ## #62 2017.03.06
 
