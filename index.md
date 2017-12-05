@@ -87,6 +87,8 @@ https://github.com/Luftzig/pycon-text-parsing-examples) (25 mins)
 
 ## #63 2017.04.03
 
+[#63](https://www.meetup.com/PyWeb-IL/events/238288247/)
+
 * [Lior Mizrachi](https://github.com/liormizr): [Exceptional Python - Error handling tips](https://github.com/liormizr/error_handling_talk) (30 mins)
 * Paul Walsh and Adam Kariv: [Frictionless Data: Lightweight standards and tooling to make it effortless to get, share, and validate data.](https://hackmd.io/p/S1fZiX_he#/) (50 mins) See also [Frictionless Data on GitHub](https://github.com/frictionlessdata/)
 * [Aur Saraf](https://www.linkedin.com/in/aursaraf): [The implementation of pytest assertions](https://speakerdeck.com/oinopion/dispelling-py-dot-test-magic) (10 mins)
