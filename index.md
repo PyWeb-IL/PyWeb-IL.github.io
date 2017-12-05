@@ -73,7 +73,7 @@ Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](h
 * Ricardo Moreno: [Zappa, a framework for developing microservices on AWS](https://ricardinho.github.io/zappa_talk/) (30 minutes)
 * Alon Nisser: [Intoduction to sysdig](https://alonisser.github.io/introduction-sysdig/#1) (20 mins)
 * Yotam Manor: [Fighting the Curse of Knowledge - Insights on Mentoring Young Pythonists](https://slides.com/yotammanor/fighting-the-curse-of-knowledge/) (20 mins)
-* Yoav Luft: [Pyparsing, or the case for monads](https://docs.google.com/presentation/d/1m2wg71UaT1OzDRrf6NhejBIKNFV-v2oOVExazse-flU/edit?usp=sharing) (25 mins)
+* Yoav Luft: [Pyparsing, or the case for monads](https://docs.google.com/presentation/d/1m2wg71UaT1OzDRrf6NhejBIKNFV-v2oOVExazse-flU/edit?usp=sharing) ([Examples on GitHub](https://github.com/Luftzig/pycon-text-parsing-examples)) (25 mins)
 
 ## #64 2017.05.08
 
