@@ -114,7 +114,12 @@ https://github.com/Luftzig/pycon-text-parsing-examples) (25 mins)
 * Benny Daon: Python Enhancement Proposal One (15 minutes)
 
 
+## #39 2014.11.03
 
+[#39](https://www.meetup.com/PyWeb-IL/events/210919092/)
+
+* [Shai Berger](https://github.com/shaib): Django 1.7 features 
+* [David Melamed](https://twitter.com/dvdmelamed)): Docker from basic to advanced + Demo 
 
 ## #38 2014.10.06
 
