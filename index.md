@@ -5,6 +5,13 @@ For more details check out our [Meetup page](https://www.meetup.com/PyWeb-IL/).
 
 Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](https://chipmunkdev.com/) and [Noam Elfanbaum](https://github.com/noamelf) at [noamelf](http://noamelf.com/)
 
+## #71 2017.12.04
+
+[#71](https://www.meetup.com/PyWeb-IL/events/245071494/)
+
+* Noam Tenne: Python Needs a Better Testing Framework (30 mins)
+* Tal Einat: Playing with Cython (30 mins)
+* [Nir Galon](http://nirgn.com/): [Pipenv: The future of Python dependency management](https://docs.google.com/presentation/d/e/2PACX-1vTzr6aOFunDqTBbSkOBGZin5GqJN4QJLXXNZXLMfQQCXHfneiDx57vcwOmOUeuYVSW6e6iEETDkeWcX/pub?start=false&loop=false&delayms=3000) (20 mins)
 
 ## 2017.11.20
 
@@ -15,7 +22,7 @@ Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](h
 [#70](https://www.meetup.com/PyWeb-IL/events/243985794)
 
 * Alon Nisser: [Logging - best (And bad) practices](https://alonisser.github.io/logging-talk/) (20 mins)
-* [Nir Galon](http://nirgn.com/): [API Star - Next generation framework!](http://nirgn.com/assets/files/presentations/API_Star.pptx) ([code](https://gist.github.com/nirgn975/9c84175deaad39b1d28a22b6992ca6d4))  (30 mins)
+* [Nir Galon](http://nirgn.com/): [API Star - Next generation framework!](https://docs.google.com/presentation/d/e/2PACX-1vT1RIPJEUd2JCXaxD3Qbbe4AUtmv-BsFR4g4Bu_Ny1CCDHsYQqa66vV0oCR-z7BAIYNmHu_5FZp2iGh/pub?start=false&loop=false&delayms=3000) ([code](https://gist.github.com/nirgn975/9c84175deaad39b1d28a22b6992ca6d4))  (30 mins)
 * Michael Sverdlin: [Serverless in Production](https://docs.google.com/presentation/d/1_iVhM7LWbIb5KuFqqaGkuV5XZa0vmtEoHElEzFy3wY4/edit#slide=id.p) (30 mins)
 
 ## #69 2017.10.02
@@ -99,4 +106,4 @@ https://github.com/Luftzig/pycon-text-parsing-examples) (25 mins)
 
 * Yishai Beeri: High-scale jobs with Twisted & Celery
 * Ram Rachum: Git Scripts  [forward-merge and cascade](https://github.com/cool-RR/git-cascade)
-* Idan Gazit: Pandas 
+* Idan Gazit: Pandas
