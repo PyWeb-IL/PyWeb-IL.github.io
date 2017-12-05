@@ -103,6 +103,14 @@ Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](h
 * [Aur Saraf](https://www.linkedin.com/in/aursaraf/): [The implementation of dict](http://rhodesmill.org/brandon/slides/2010-03-pycon/) (10 minutes)
 * [Nir Cohen](https://github.com/nir0s): [The anatomy of a traceback](http://slides.com/nir0s/traceback#/) (25 minutes)
 
+## #45 2015.06.01
+
+[#45](https://www.meetup.com/PyWeb-IL/events/222448735/)
+
+* Alon Nisser: Introduction to bash parallel (25 mins)
+* Amir Rachum: pep257.py - a linter for docstring conventions (5-10 mins)
+* Zohar Arad: SaltStack (45 mins)
+
 ## #44 2015.05.04
 
 [#44](https://www.meetup.com/PyWeb-IL/events/221821038/)
