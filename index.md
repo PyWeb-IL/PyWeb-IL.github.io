@@ -114,6 +114,14 @@ Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](h
 * Rafael Bodill: [Setup your workstations automatically with Ansible playbooks](https://prezi.com/szmkea_ehsih/ansible-command-conquer/) (15 minutes)
 * Benny Daon: Python Enhancement Proposal One (15 minutes)
 
+## #42 2015.02.02
+
+[#42](https://www.meetup.com/PyWeb-IL/events/219807718/)
+
+* [Natan Brosztein](https://www.linkedin.com/in/natanbrosztein): WebRTC  Explain the basic principles of WebRTC, history and current status and show some demos and basic code. This includes concepts like codecs, SIP, RTP, SDP and ICE, NAT traversal, etc.
+* [Zohar Arad](http://www.zohararad.com/): [Elastic Search as a realtime analytics engine](http://zohararad.github.io/presentations/es-analytics/)  There's a true story here of how our company moved from HBase to ES and how we're using the latter to drive our analytics engine.
+* [Ram Rachum](http://blog.ram.rachum.com/) Combi: combinatorics package for Python - the combinatorics package that I've written for Python. [Combi](https://github.com/cool-RR/combi) [Documentation of Combi](https://combi.readthedocs.io/en/stable/)
+
 ## #41 2015.01.05
 
 [#41](https://www.meetup.com/PyWeb-IL/events/218888337/)
