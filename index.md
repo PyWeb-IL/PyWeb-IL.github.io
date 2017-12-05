@@ -3,6 +3,8 @@
 Monthly meetings about Python in general and Python for Web in particular in Tel Aviv-Yafo, Israel.
 For more details check out our [Meetup page](https://www.meetup.com/PyWeb-IL/).
 
+To contribute to this page [fork me](https://github.com/PyWeb-IL/PyWeb-IL.github.io).
+
 Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](https://chipmunkdev.com/) and [Noam Elfanbaum](https://github.com/noamelf) at [noamelf](http://noamelf.com/)
 
 ## Next:  2017.12.19
