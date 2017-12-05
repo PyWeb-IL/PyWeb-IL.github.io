@@ -19,7 +19,7 @@ Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](h
 * [Tal Einat](https://github.com/taleinat): [Playing with Cython](https://taleinat.github.io/playing_with_cython/) (30 mins)
 * [Nir Galon](http://nirgn.com/): [Pipenv: The future of Python dependency management](https://docs.google.com/presentation/d/e/2PACX-1vTzr6aOFunDqTBbSkOBGZin5GqJN4QJLXXNZXLMfQQCXHfneiDx57vcwOmOUeuYVSW6e6iEETDkeWcX/pub?start=false&loop=false&delayms=3000) (20 mins)
 
-## Wrokshop 2017.11.20
+## Workshop 2017.11.20
 
 [Your First Open Source contribution](https://www.meetup.com/PyWeb-IL/events/244925304/)
 
