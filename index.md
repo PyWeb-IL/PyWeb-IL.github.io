@@ -9,7 +9,7 @@ Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](h
 
 [Python testing workshop](https://www.meetup.com/PyWeb-IL/events/245433267/)
 
-* Gabor Szabo 
+* Gabor Szabo
 
 ## #71 2017.12.04
 
@@ -113,13 +113,22 @@ https://github.com/Luftzig/pycon-text-parsing-examples) (25 mins)
 * Rafael Bodill: [Setup your workstations automatically with Ansible playbooks](https://prezi.com/szmkea_ehsih/ansible-command-conquer/) (15 minutes)
 * Benny Daon: Python Enhancement Proposal One (15 minutes)
 
+## #40 2014.12.01
+
+[#40](https://www.meetup.com/PyWeb-IL/events/216085492/)
+
+* [Meir Kriheli](http://www.meirkriheli.com/): My workflow/life with vim
+
+Lightning talks:
+* [Udi Bauman](https://twitter.com/dibau_naum_h): [Winning examples of declarative programming](https://speakerdeck.com/dibau_naum_h/declarative-programming-winning-examples)
+* [Yehonatan Daniv](https://github.com/ydaniv): [Django REST-assured](http://slides.com/ydaniv/django-rest-assured-intro#/) , [on GitHub](https://github.com/ydaniv/django-rest-assured) [demo](https://github.com/ydaniv/django-rest-assured-demo)
 
 ## #39 2014.11.03
 
 [#39](https://www.meetup.com/PyWeb-IL/events/210919092/)
 
-* [Shai Berger](https://github.com/shaib): Django 1.7 features 
-* [David Melamed](https://twitter.com/dvdmelamed)): Docker from basic to advanced + Demo 
+* [Shai Berger](https://github.com/shaib): Django 1.7 features
+* [David Melamed](https://twitter.com/dvdmelamed): Docker from basic to advanced + Demo
 
 ## #38 2014.10.06
 
