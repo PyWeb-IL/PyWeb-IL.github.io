@@ -5,6 +5,10 @@ For more details check out our [Meetup page](https://www.meetup.com/PyWeb-IL/).
 
 Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](https://chipmunkdev.com/) and [Noam Elfanbaum](https://github.com/noamelf) at [noamelf](http://noamelf.com/)
 
+## Next:  2017.12.19
+
+* Gabor Szabo: [Python testing workshop](https://www.meetup.com/PyWeb-IL/events/245433267/)
+
 ## #71 2017.12.04
 
 [#71](https://www.meetup.com/PyWeb-IL/events/245071494/)
