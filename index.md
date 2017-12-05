@@ -9,8 +9,8 @@ Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](h
 
 [#71](https://www.meetup.com/PyWeb-IL/events/245071494/)
 
-* Noam Tenne: Python Needs a Better Testing Framework (30 mins)
-* Tal Einat: Playing with Cython (30 mins)
+* [Noam Tenne](http://www.10ne.org/): [Python Needs a Better Testing Framework](https://github.com/noamt/presentations/tree/master/we-need-a-better-testing-framework) about [Nimoy](https://github.com/browncoat-ninjas/nimoy) (30 mins) 
+* [Tal Einat](https://github.com/taleinat): [Playing with Cython](https://taleinat.github.io/playing_with_cython/) (30 mins)
 * [Nir Galon](http://nirgn.com/): [Pipenv: The future of Python dependency management](https://docs.google.com/presentation/d/e/2PACX-1vTzr6aOFunDqTBbSkOBGZin5GqJN4QJLXXNZXLMfQQCXHfneiDx57vcwOmOUeuYVSW6e6iEETDkeWcX/pub?start=false&loop=false&delayms=3000) (20 mins)
 
 ## 2017.11.20
