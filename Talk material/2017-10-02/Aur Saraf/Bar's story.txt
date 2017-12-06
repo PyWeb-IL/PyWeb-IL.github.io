@@ -1,0 +1,15 @@
+I was once in a job interview and the interviewer wanted to ask me a question about this subject.
+I only remember his question vaguely. The settings where that there were $k$ client computers, and one server that crashes in random times. He also mentioned that the clients are always online.
+The clients send requests to increase or decrease some counters on the server, and the server keeps those on files because he sometimes crashes. He then asked me how to solve the problem with the server so that the counters will be consistent.
+
+I didn't realize at the time that he actually wanted to talk about atomicity of writing to files. I thought that he had an actual problem with the server.
+I told him that if he can bring me the server, or at least the server code, we can see what causes it to crash, and fix it. He said that this won't be a good solution. I just have to live with the fact that the server crashes in random times. I thought that this was really strange, what kind of company leaves its servers to crash randomly. It took me a few minutes before I understood that there wasn't a real server, it was just an exercise.
+
+I then asked him about the clients. He explained that the clients are always online, and are very reliable. I then suggested that he will throw away the server, and use one of the clients as a server instead, because the client never crashes. The interviewer got really uncomfortable with this idea, and he said that I can not change the hardware of the clients and the server.
+
+By this time I really didn't understand what the guy wants, but after a few minutes of thinking I thought that I finally understood. I suggested that he can abandon the server idea altogether. I explained to him how to create a distributed reliable database that is stored on the clients, provided that he can trust at least 2/3 out of them. This way he can stop using the hard disks, and keep the counters on the ram. He was not happy with this at all. He managed to somehow smile a weak smile, and then asked me if this distributed solution always work. I told him that asynchronous agreement can not be deterministic by the FLP theorem, but my algorithm works with probability 1. He then asked me if I can prove it. I was surprised that he asked for it, but I actually wrote this proof once, so I explained him the proof.
+
+Coming to the end of the proof, I could see that the interviewer was getting really upset. He told me that how can I prove that the algorithm works with probability 1, if it is not deterministic. I began to explain, but he wouldn't listen any more. He said it's a good time to finish the interview. Of course I got an email a few days later saying that I was not a good fit for the company (:
+
+
+I came to think about it some months later, that what he wanted to hear was: No problem, I will add journalling to the server code somehow, and then write pseudo code of how to do this.
