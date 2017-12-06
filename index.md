@@ -92,6 +92,19 @@ Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](h
 * [Nir Cohen](https://github.com/nir0s): [The anatomy of a traceback](http://slides.com/nir0s/traceback#/) (25 minutes)
 
 
+## 2016.04.04 - [#52](https://www.meetup.com/PyWeb-IL/events/229759487/)
+
+* Eyal Yavor: Writing production-ready chatbots (35 mins)
+* Amir Miron: Ctypes on Steroids: Advanced Dynamic Interaction With C (40 minutes)
+* Meir Kriheli: [asyncio: Asynchronous I/O, event loop, coroutines and tasks](http://meirkriheli.com/en/talks/#asyncio) (50 minutes)
+
+
+## 2016.03.07 - [#51](https://www.meetup.com/PyWeb-IL/events/228958390/)
+
+* Eli Gur: [Type hints in Python](https://www.dropbox.com/s/s82883a1ogk2omx/BayPiggies2015GradualTyping.pptx?dl=0) (40 mins)
+* Aur Saraf: assert - the simplest possible unit testing framework (5 mins)
+* Noam Elfanbaum: [Kong (API gateway), micro-services and some docker](https://github.com/noamelf/kong-talk) (30 mins)
+
 ## 2016.02.01 - [#50](https://www.meetup.com/PyWeb-IL/events/227780028/)
 
 * Alon Nisser: Automate CLI apps with BATS (10 mins)
