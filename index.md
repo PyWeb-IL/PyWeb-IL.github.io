@@ -103,6 +103,15 @@ Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](h
 * [Aur Saraf](https://www.linkedin.com/in/aursaraf/): [The implementation of dict](http://rhodesmill.org/brandon/slides/2010-03-pycon/) (10 minutes)
 * [Nir Cohen](https://github.com/nir0s): [The anatomy of a traceback](http://slides.com/nir0s/traceback#/) (25 minutes)
 
+
+## [#48](https://www.meetup.com/PyWeb-IL/events/226076279/) 2015.11.02
+
+* Alon Nisser: [RabbitMQ, and using message queues in general](http://alonisser.github.io/introduction-rabbitmq/) (50 mins)
+* Nir Cohen: [Wagon - Creates compiled, offline installable, wheel base Python module archives.](http://slides.com/nir0s/wagon#/) (15 mins)
+* Ohad Partuck: Build a better backend (25 mins)
+* Miki Tebeka: The many ways of defining and calling Python functions (25 mins)
+
+
 ## #47 2015.10.12
 
 [#47](https://www.meetup.com/PyWeb-IL/events/224395519/)
