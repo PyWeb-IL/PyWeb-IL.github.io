@@ -92,6 +92,14 @@ Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](h
 * [Nir Cohen](https://github.com/nir0s): [The anatomy of a traceback](http://slides.com/nir0s/traceback#/) (25 minutes)
 
 
+## 2016.01.04 - [#49](https://www.meetup.com/PyWeb-IL/events/226683787/)
+
+* Eli Gur: PyTest, the testing framework you've been dreaming of (45 mins)
+* Doron Fediuck: PyconIsrael 2016! (10 mins)
+* Miki Tebeka: The many ways of defining and calling Python functions (35 mins)
+* Aur Saraf: re2: modern regular expression syntax everywhere with a painless upgrade path (15 mins)
+
+
 ## 2015.11.02 - [#48](https://www.meetup.com/PyWeb-IL/events/226076279/)
 
 * Alon Nisser: [RabbitMQ, and using message queues in general](http://alonisser.github.io/introduction-rabbitmq/) (50 mins)
