@@ -92,6 +92,13 @@ Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](h
 * [Nir Cohen](https://github.com/nir0s): [The anatomy of a traceback](http://slides.com/nir0s/traceback#/) (25 minutes)
 
 
+## 2016.02.01 - [#50](https://www.meetup.com/PyWeb-IL/events/227780028/)
+
+* Alon Nisser: Automate CLI apps with BATS (10 mins)
+* Nir Cohen: ld - reinstating Linux Distribution identification and information gathering in Python (15 mins)
+* Ori Hoch: Django-oscar e-commerce framework - review and deep-dive (~45 mins)
+
+
 ## 2016.01.04 - [#49](https://www.meetup.com/PyWeb-IL/events/226683787/)
 
 * Eli Gur: PyTest, the testing framework you've been dreaming of (45 mins)
