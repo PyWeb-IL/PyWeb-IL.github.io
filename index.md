@@ -92,6 +92,21 @@ Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](h
 * [Nir Cohen](https://github.com/nir0s): [The anatomy of a traceback](http://slides.com/nir0s/traceback#/) (25 minutes)
 
 
+## 2016.08.01 - [#55](https://www.meetup.com/PyWeb-IL/events/232724175/)
+
+* David Melamed: Build, test and release your python packages using DevPI, Docker and Jenkins (30 mins)
+* Noam Elfanbaum: Designing Pythonic API's like Kenneth Reitz (Requests case study) (30 mins)
+* Yuval Adam: [Anatomy of a Full Stack Project](http://slides.com/yuvadm/fullstack#/) (30 min)
+* Tom Gurion: [The Krihelinator - evaluating trendiness in open source software](https://rawgit.com/Nagasaki45/pyweb-talk/master/index.html#/title) (10 mins)
+
+
+## 2016.07.04 - [#54](https://www.meetup.com/PyWeb-IL/events/231814442/)
+
+* Eli Gur: Hypothesis: simpler and more powerful test cases (45 mins)
+* Miki Tebeka: Descriptors and the Python dot operator (45 mins)
+* Lior Neudorfer: [How Slack transformed our company](http://slides.com/liorneudorfer/slack-2#/) (15 mins)
+
+
 ## 2016.06.06 - [#53](https://www.meetup.com/PyWeb-IL/events/230893745/)
 
 * Elad Silberring: [Testing with Django Aloe](http://slides.com/cyber778/django-bdd-aloe#/) (15 mins)
