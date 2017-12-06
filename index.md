@@ -103,6 +103,15 @@ Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](h
 * [Aur Saraf](https://www.linkedin.com/in/aursaraf/): [The implementation of dict](http://rhodesmill.org/brandon/slides/2010-03-pycon/) (10 minutes)
 * [Nir Cohen](https://github.com/nir0s): [The anatomy of a traceback](http://slides.com/nir0s/traceback#/) (25 minutes)
 
+## #46 2015.07.06
+
+[#46](https://www.meetup.com/PyWeb-IL/events/223077234/)
+
+* Michael Sverdlik: Wheels, the new distribution format for Python packages [video in Hebrew](https://youtu.be/NouidSftEX4) (30-45 minutes)
+* Michael Sverdlin: [Advanced topics in Django admin - custom forms, fields, inlines, Grapelli, and other amusing hacks](https://docs.google.com/presentation/d/1dNeBHuL-UtCEXsA8kl0Qw--mITxnvGLEfsUWSw6I-7Y/edit#slide=id.p) [video in Hebrew](https://youtu.be/xmToBYGbvtw)  (40 minutes)
+* Miki Tebeka: Using pandas for Data Processing (30-45 minutes)
+
+
 ## #45 2015.06.01
 
 [#45](https://www.meetup.com/PyWeb-IL/events/222448735/)
