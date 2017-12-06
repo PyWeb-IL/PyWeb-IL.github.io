@@ -91,6 +91,27 @@ Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](h
 * [Aur Saraf](https://www.linkedin.com/in/aursaraf/): [The implementation of dict](http://rhodesmill.org/brandon/slides/2010-03-pycon/) (10 minutes)
 * [Nir Cohen](https://github.com/nir0s): [The anatomy of a traceback](http://slides.com/nir0s/traceback#/) (25 minutes)
 
+## 2016.11.07 - [#58](https://www.meetup.com/PyWeb-IL/events/235098586/)
+
+* Alon Nisser: ["The strangler pattern" dealing with legacy rewrites](https://alonisser.github.io/strangler-pattern-talk/#1) (10 mins)
+* Miki Tebeka: [Testing numpy code - What not to do](https://github.com/tebeka/talks/blob/master/numpy-testing/numpy-testing.ipynb) (30min)
+* Aur Saraf: programming brainfuck and virtual machines (30 mins)
+
+
+## 2016.10.10 - [#57](https://www.meetup.com/PyWeb-IL/events/233947760/)
+
+* Benny Daon: [Reverse-engineering Python's knowledge layers](http://tuzig.com/peps/#/) (45 mins)
+* Alon Nisser: [webpack - the hot module bundler as a build tool](https://alonisser.github.io/Intro-webpack-pywebIL/#1) [sample project](https://github.com/alonisser/webpack-reference-example) (40-45 mins)
+* Nir Cohen: Repex REPlace (regular) EXpression - version management and more. (15 mins)
+
+
+## 2016.09.05 - [#56](https://www.meetup.com/PyWeb-IL/events/233235621/)
+
+* Uri Even-Chen: Speedy Net, Speedy Match and Speedy Composer (30 mins)
+* Aur Saraf: Programming Pearls in Python (30 mins)
+* Gabor Szabo: [Testing web applications using Selenium and Python](https://code-maven.com/selenium-with-python-at-pyweb-il-56) (45 mins)
+
+
 
 ## 2016.08.01 - [#55](https://www.meetup.com/PyWeb-IL/events/232724175/)
 
