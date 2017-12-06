@@ -92,6 +92,16 @@ Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](h
 * [Nir Cohen](https://github.com/nir0s): [The anatomy of a traceback](http://slides.com/nir0s/traceback#/) (25 minutes)
 
 
+## 2016.06.06 - [#53](https://www.meetup.com/PyWeb-IL/events/230893745/)
+
+* Elad Silberring: [Testing with Django Aloe](http://slides.com/cyber778/django-bdd-aloe#/) (15 mins)
+* Nir Cohen: [Cloudify - Managing a large, distributed, open-source Python project.](http://slides.com/nir0s/what-is-cloudify#/) (45-60 mins)
+* Eyal Posener: [Using Hammock to write a REST server in Python](https://docs.google.com/presentation/d/1ukQqZrsaohORukOo8T5JxdHvzhlxgDdZJFdoHZPIcQc/pub#slide=id.p) (45 mins)
+
+
+## 2016.05.02-03 - [PyCon Israel](http://il.pycon.org/2016/)
+
+
 ## 2016.04.04 - [#52](https://www.meetup.com/PyWeb-IL/events/229759487/)
 
 * Eyal Yavor: Writing production-ready chatbots (35 mins)
