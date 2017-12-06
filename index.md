@@ -176,9 +176,9 @@ Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](h
 
 ## 2015.10.12 - [#47](https://www.meetup.com/PyWeb-IL/events/224395519/)
 
-* Michael Sverdlin: Django - Test all the things. Unittests, functional tests and stress testing. (30-45m)
+* Michael Sverdlin: [Django - Test all the things. Unittests, functional tests and stress testing.](/talks/2015-10-12/Testing Python.pptx) (30-45m)
 * Nir Cohen: [Indepth Tox - managing multiple test environments](/talks/2015-10-12/python-detox.pdf) (30-45 mins)
-* Ram Rachum: How I learned to use the computer efficiently (45 mins)
+* Ram Rachum: [How I learned to use the computer efficiently](/talks/2015-10-12/How to use the computer efficiently.pdf) [Power Point](/talks/2015-10-12/How to use the computer efficiently.pptx) (45 mins)
 
 
 ## 2015.07.06 - [#46](https://www.meetup.com/PyWeb-IL/events/223077234/)
