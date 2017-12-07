@@ -91,6 +91,27 @@ Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](h
 * [Aur Saraf](https://www.linkedin.com/in/aursaraf/): [The implementation of dict](http://rhodesmill.org/brandon/slides/2010-03-pycon/) (10 minutes)
 * [Nir Cohen](https://github.com/nir0s): [The anatomy of a traceback](http://slides.com/nir0s/traceback#/) (25 minutes)
 
+
+## 2017.02.06 [#61](https://www.meetup.com/PyWeb-IL/events/236754035/)
+
+* Alon Nisser: [Functional testing a webapp](https://alonisser.github.io/functional-testing-talk/#1) (40 min)
+* Noam Elfanbaum: [Scientific debugging](https://github.com/noamelf/debugging-with-the-scientific-method/blob/master/Debugging-with-the-scientific-method.ipynb) (10 min)
+* Yotam Gafni: How we built a versionator using datadog & puppet (30 mins)
+
+
+## 2017.01.02 [#60](https://www.meetup.com/PyWeb-IL/events/236280204/)
+
+* Chen Rotem Levy: [The Rust programming language](https://github.com/chenl/talks/blob/master/20170102-rust/why-rust.org) (60 mins)
+* Benny Daon: [Ordinal not in range - Python2 unicode](https://nedbatchelder.com/text/unipain/unipain.html#1) (40 mins)
+
+
+## 2016.12.05 [#59](https://www.meetup.com/PyWeb-IL/events/235537593/)
+
+* Rony Sheer: Django Channels: Teaching a mature framework new tricks (like websockets)
+* David Melamed: Gordon, a very convenient AWS lambda full automation framework + demo
+* Shai Berger: BeeWare: A collection of Python tools (tentative)
+
+
 ## 2016.11.07 - [#58](https://www.meetup.com/PyWeb-IL/events/235098586/)
 
 * Alon Nisser: ["The strangler pattern" dealing with legacy rewrites](https://alonisser.github.io/strangler-pattern-talk/#1) (10 mins)
