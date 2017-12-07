@@ -111,7 +111,7 @@ Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](h
 ## 2016.12.05 [#59](https://www.meetup.com/PyWeb-IL/events/235537593/)
 
 * Rony Sheer: [Django Channels: Teaching a mature framework new tricks (like websockets)](/talks/2016-12-05/Rony Sheer - Django Channels.pdf)
-* David Melamed: [Gordon, a very convenient AWS lambda full automation framework + demo](David Melamed - Gordon.pdf)
+* David Melamed: [Gordon, a very convenient AWS lambda full automation framework + demo](/talks/2016-12-05/David Melamed - Gordon.pdf)
 * Shai Berger: [BeeWare: A collection of Python tools (tentative)](/talks/2016-12-05/Shai Berger - BeeWare.pdf)
 
 
