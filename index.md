@@ -61,6 +61,9 @@ Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](h
 * Ohad Perry: [Hands-on message broker using Google's pub sub](https://docs.google.com/presentation/d/1yszcUbDsDKAfbFo-XoU0AfZPQ01ySvV7fnb2STCBhDg/edit#slide=id.gc6f73a04f_0_0) (25 mins)
 
 
+## 2017.06.11-14 - [PyCon Israel](http://il.pycon.org/2017/)
+
+
 ## 2017.06.05 - [#65](https://www.meetup.com/PyWeb-IL/events/239963272/)
 
 * Ricardo Moreno: [Zappa, a framework for developing microservices on AWS](https://ricardinho.github.io/zappa_talk/) (30 minutes)
