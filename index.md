@@ -36,14 +36,14 @@ Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](h
 
 * Miki Tebeka of [353 Solutions](http://www.353solutions.com/): [Screw DSLs](https://github.com/tebeka/talks/tree/master/screw-dsls)  (40 mins)
 * Meir Kriheli: [Intro to Vue.JS](http://meirkriheli.com/en/talks/#vuejs) (50 mins)
-* Aur Saraf: [Lets answer some interesting job interview questions](https://www.dropbox.com/sh/y065y9tavl6juva/AAB32vye9o8q8YN4KmzzMZhxa?dl=0) (30 mins)
+* Aur Saraf: [Lets answer some interesting job interview questions](/talks/2017-10-02/Aur Saraf/Bar's story.txt) ([fib.py](/talks/2017-10-02/Aur Saraf/fib.py))) (30 mins)
 
 
 ## 2017.09.04 - [#68](https://www.meetup.com/PyWeb-IL/events/242431694)
 
 * Eli Gur: Hypothesis: A new paradigm in testing (45 mins)
 * (BSD) Avraham Serour: [Actually generate swagger for DRF or GSDAPIISUI](https://docs.google.com/presentation/d/1lpWOwP7munRSrx0v9fWxYTffZYsYmKmAHuzKsyxz78g/edit#slide=id.gcb9a0b074_1_0) (20-30 mins)
-* Mark Geyzer: [Test Automation with Robot Framework](https://www.dropbox.com/s/l3ho11svt6tysrl/RobotFramework.pptx?dl=0) (15-20 mins)
+* Mark Geyzer: [Test Automation with Robot Framework](/talks/2017-09-04/RobotFramework.pptx) (15-20 mins)
 
 
 ## 2017.08.07 - [#67](https://www.meetup.com/PyWeb-IL/events/241588798)
@@ -74,7 +74,7 @@ Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](h
 * Gabor Szabo: [Using Jenkins as a CI of Python-based projects](https://edumaven.com/jenkins/) (20-30 minutes)
 * [Aur Saraf](https://www.linkedin.com/in/aursaraf): The Universe Is Broken: a debugging story (15 mins)
 * Miki Tebeka: [REPLing with IPython](https://github.com/tebeka/talks/tree/master/repling-ipy) (30 mins)
-* Amit Aronovitch: [Python Keyring + adding a new backend](https://dl.dropboxusercontent.com/u/1927707/PyWeb-IL%20public/Talk%20material/2017-05-08/Amit%20keyring.zip) (20 mins)
+* Amit Aronovitch: [Python Keyring + adding a new backend](/talks/2017-05-08/Amit keyring.zip) (20 mins)
 
 
 ## 2017.04.03 - [#63](https://www.meetup.com/PyWeb-IL/events/238288247/)
@@ -87,7 +87,7 @@ Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](h
 ## 2017.03.06 - [#62](https://www.meetup.com/PyWeb-IL/events/237672764)
 
 * [Agam Rafaeli](https://www.linkedin.com/in/agam-rafaeli-038a901b/): [Pip + Virtualenv under the hood](https://docs.google.com/presentation/d/1PcKXxS6_Fnn7_pa557uCQzQ1phT9IchFjewQPI-htzg/edit#slide=id.g20de8b1e65_0_5) (25 minutes)
-* [Haki Benita](https://github.com/hakib): Working with APIs the Pythonic way (40 minutes)
+* [Haki Benita](https://github.com/hakib): [Working with APIs the Pythonic way](/talks/2017-03-06/Haki Benita - Working with APIs the pythonic way.pdf) (40 minutes)
 * [Aur Saraf](https://www.linkedin.com/in/aursaraf/): [The implementation of dict](http://rhodesmill.org/brandon/slides/2010-03-pycon/) (10 minutes)
 * [Nir Cohen](https://github.com/nir0s): [The anatomy of a traceback](http://slides.com/nir0s/traceback#/) (25 minutes)
 
@@ -96,7 +96,7 @@ Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](h
 
 * Alon Nisser: [Functional testing a webapp](https://alonisser.github.io/functional-testing-talk/#1) (40 min)
 * Noam Elfanbaum: [Scientific debugging](https://github.com/noamelf/debugging-with-the-scientific-method/blob/master/Debugging-with-the-scientific-method.ipynb) (10 min)
-* Yotam Gafni: How we built a versionator using datadog & puppet (30 mins)
+* Yotam Gafni: [How we built a versionator using datadog & puppet](/talks/2017-02-06/How we built a versionator in 30m using datadog + puppet.pdf) (30 mins)
 
 
 ## 2017.01.02 [#60](https://www.meetup.com/PyWeb-IL/events/236280204/)
@@ -107,16 +107,16 @@ Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](h
 
 ## 2016.12.05 [#59](https://www.meetup.com/PyWeb-IL/events/235537593/)
 
-* Rony Sheer: Django Channels: Teaching a mature framework new tricks (like websockets)
-* David Melamed: Gordon, a very convenient AWS lambda full automation framework + demo
-* Shai Berger: BeeWare: A collection of Python tools (tentative)
+* Rony Sheer: [Django Channels: Teaching a mature framework new tricks (like websockets)](/talks/2016-12-05/Rony Sheer - Django Channels.pdf)
+* David Melamed: [Gordon, a very convenient AWS lambda full automation framework + demo](David Melamed - Gordon.pdf)
+* Shai Berger: [BeeWare: A collection of Python tools (tentative)](/talks/2016-12-05/Shai Berger - BeeWare.pdf)
 
 
 ## 2016.11.07 - [#58](https://www.meetup.com/PyWeb-IL/events/235098586/)
 
 * Alon Nisser: ["The strangler pattern" dealing with legacy rewrites](https://alonisser.github.io/strangler-pattern-talk/#1) (10 mins)
 * Miki Tebeka: [Testing numpy code - What not to do](https://github.com/tebeka/talks/blob/master/numpy-testing/numpy-testing.ipynb) (30min)
-* Aur Saraf: programming brainfuck and virtual machines (30 mins)
+* Aur Saraf: [programming brainfuck and virtual machines](/talks/2016-11-07/brainfuck/brainfuck for pywel-il.pptx) ([b.py](/talks/2016-11-07/brainfuck/b.py)) (30 mins)
 
 
 ## 2016.10.10 - [#57](https://www.meetup.com/PyWeb-IL/events/233947760/)
@@ -128,15 +128,14 @@ Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](h
 
 ## 2016.09.05 - [#56](https://www.meetup.com/PyWeb-IL/events/233235621/)
 
-* Uri Even-Chen: Speedy Net, Speedy Match and Speedy Composer (30 mins)
-* Aur Saraf: Programming Pearls in Python (30 mins)
+* Uri Even-Chen: [Speedy Net, Speedy Match and Speedy Composer](/talks/2016-09-05/Speedy Net - PyWeb-IL presentation 2016-09-05.pptx) (30 mins)
+* Aur Saraf: [Programming Pearls in Python](/talks/2016-09-05/Programming Pearls Talk.pdf) (30 mins)
 * Gabor Szabo: [Testing web applications using Selenium and Python](https://code-maven.com/selenium-with-python-at-pyweb-il-56) (45 mins)
-
 
 
 ## 2016.08.01 - [#55](https://www.meetup.com/PyWeb-IL/events/232724175/)
 
-* David Melamed: Build, test and release your python packages using DevPI, Docker and Jenkins (30 mins)
+* David Melamed: [Build, test and release your python packages using DevPI, Docker and Jenkins](/talks/2016-08-01/DevPI.pdf) (30 mins)
 * Noam Elfanbaum: Designing Pythonic API's like Kenneth Reitz (Requests case study) (30 mins)
 * Yuval Adam: [Anatomy of a Full Stack Project](http://slides.com/yuvadm/fullstack#/) (30 min)
 * Tom Gurion: [The Krihelinator - evaluating trendiness in open source software](https://rawgit.com/Nagasaki45/pyweb-talk/master/index.html#/title) (10 mins)
@@ -144,7 +143,7 @@ Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](h
 
 ## 2016.07.04 - [#54](https://www.meetup.com/PyWeb-IL/events/231814442/)
 
-* Eli Gur: Hypothesis: simpler and more powerful test cases (45 mins)
+* Eli Gur: [Hypothesis: simpler and more powerful test cases](/talks/2016-07-04/Hypothesis By Eli Gur 2016-07-04.pdf) (45 mins)
 * Miki Tebeka: Descriptors and the Python dot operator (45 mins)
 * Lior Neudorfer: [How Slack transformed our company](http://slides.com/liorneudorfer/slack-2#/) (15 mins)
 
@@ -161,8 +160,8 @@ Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](h
 
 ## 2016.04.04 - [#52](https://www.meetup.com/PyWeb-IL/events/229759487/)
 
-* Eyal Yavor: Writing production-ready chatbots (35 mins)
-* Amir Miron: Ctypes on Steroids: Advanced Dynamic Interaction With C (40 minutes)
+* Eyal Yavor: [Writing production-ready chatbots](/talks/2016-04-04/Bots - PyWebIL.pptx) (35 mins)
+* Amir Miron: [Ctypes on Steroids: Advanced Dynamic Interaction With C](/talks/2016-04-04/CtypesPresentation.zip) (40 minutes)
 * Meir Kriheli: [asyncio: Asynchronous I/O, event loop, coroutines and tasks](http://meirkriheli.com/en/talks/#asyncio) (50 minutes)
 
 
@@ -171,6 +170,7 @@ Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](h
 * Eli Gur: [Type hints in Python](https://www.dropbox.com/s/s82883a1ogk2omx/BayPiggies2015GradualTyping.pptx?dl=0) (40 mins)
 * Aur Saraf: assert - the simplest possible unit testing framework (5 mins)
 * Noam Elfanbaum: [Kong (API gateway), micro-services and some docker](https://github.com/noamelf/kong-talk) (30 mins)
+
 
 ## 2016.02.01 - [#50](https://www.meetup.com/PyWeb-IL/events/227780028/)
 
@@ -184,7 +184,7 @@ Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](h
 * Eli Gur: PyTest, the testing framework you've been dreaming of (45 mins)
 * Doron Fediuck: PyconIsrael 2016! (10 mins)
 * Miki Tebeka: The many ways of defining and calling Python functions (35 mins)
-* Aur Saraf: re2: modern regular expression syntax everywhere with a painless upgrade path (15 mins)
+* Aur Saraf: [re2: modern regular expression syntax everywhere with a painless upgrade path](/talks/2016-01-04/re3.pdf) (15 mins)
 
 
 ## 2015.11.02 - [#48](https://www.meetup.com/PyWeb-IL/events/226076279/)
