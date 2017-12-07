@@ -177,7 +177,7 @@ Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](h
 
 ## 2016.02.01 - [#50](https://www.meetup.com/PyWeb-IL/events/227780028/)
 
-* Alon Nisser: Automate CLI apps with BATS (10 mins)
+* Alon Nisser: [Automate CLI apps with BATS](https://alonisser.github.io/Introduction-bats/) (10 mins)
 * Nir Cohen: ld - reinstating Linux Distribution identification and information gathering in Python (15 mins)
 * Ori Hoch: Django-oscar e-commerce framework - review and deep-dive (~45 mins)
 
@@ -214,7 +214,7 @@ Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](h
 
 ## 2015.06.01 - [#45](https://www.meetup.com/PyWeb-IL/events/222448735/)
 
-* Alon Nisser: Introduction to bash parallel (25 mins)
+* Alon Nisser: [Introduction to bash parallel](http://alonisser.github.io/Introduction-bash-parallel/) (25 mins)
 * Amir Rachum: pep257.py - a linter for docstring conventions (5-10 mins)
 * Zohar Arad: SaltStack (45 mins)
 
