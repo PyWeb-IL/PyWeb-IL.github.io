@@ -7,8 +7,18 @@ To contribute to this page [fork me](https://github.com/PyWeb-IL/PyWeb-IL.github
 
 Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](https://chipmunkdev.com/) and [Noam Elfanbaum](https://github.com/noamelf) at [noamelf](http://noamelf.com/)
 
+## Next: 2018.01.16 - [Python Pair Programming with TDD Workshop](https://www.meetup.com/PyWeb-IL/events/246150120/)
 
-## Next:  2017.12.19 - [Python testing workshop](https://www.meetup.com/PyWeb-IL/events/245433267/)
+* Gabor Szabo
+
+## 2018.01.01 - [#72](https://www.meetup.com/PyWeb-IL/events/245801876/)
+
+* Alon Nisser: [When infrastructure betrays you](https://alonisser.github.io/abstractions-talk/) (30 mins)
+* Miki Tebeka: [attrs - Classes Without Boilerplate](https://github.com/tebeka/talks/tree/master/attrs-pyweb) (20 min)
+* Benny Daon: The differences between test code and production code (20 mins)
+
+
+## 2017.12.19 - [Python testing workshop](https://www.meetup.com/PyWeb-IL/events/245433267/)
 
 * Gabor Szabo
 
