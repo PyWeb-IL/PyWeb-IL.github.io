@@ -20,7 +20,7 @@ Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](h
 
 ## 2017.12.19 - [Python testing workshop](https://www.meetup.com/PyWeb-IL/events/245433267/)
 
-* Gabor Szabo
+* Gabor Szabo: [Testing with PyTest](https://code-maven.com/slides/python-programming/testing-with-pytest)
 
 
 ## 2017.12.04 - [#71](https://www.meetup.com/PyWeb-IL/events/245071494/)
@@ -32,7 +32,7 @@ Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](h
 
 ## 2017.11.20 - [Your First Open Source contribution](https://www.meetup.com/PyWeb-IL/events/244925304/)
 
-* Gabor Szabo: [Collab-dev slides](https://edumaven.com/collab-dev/)
+* Gabor Szabo: [Collab-dev slides](https://code-maven.com/slides/collab-dev/)
 
 
 ## 2017.11.06 - [#70](https://www.meetup.com/PyWeb-IL/events/243985794)
@@ -84,7 +84,7 @@ Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](h
 
 ## 2017.05.08 - [#64](https://www.meetup.com/PyWeb-IL/events/238984345/)
 
-* Gabor Szabo: [Using Jenkins as a CI of Python-based projects](https://edumaven.com/jenkins/) (20-30 minutes)
+* Gabor Szabo: [Using Jenkins as a CI of Python-based projects](https://code-maven.com/slide/jenkins/) (20-30 minutes)
 * [Aur Saraf](https://www.linkedin.com/in/aursaraf): The Universe Is Broken: a debugging story (15 mins)
 * Miki Tebeka: [REPLing with IPython](https://github.com/tebeka/talks/tree/master/repling-ipy) (30 mins)
 * Amit Aronovitch: [Python Keyring + adding a new backend](/talks/2017-05-08/Amit keyring.zip) (20 mins)
