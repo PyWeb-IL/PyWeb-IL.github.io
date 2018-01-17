@@ -7,7 +7,17 @@ To contribute to this page [fork me](https://github.com/PyWeb-IL/PyWeb-IL.github
 
 Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](https://chipmunkdev.com/) and [Noam Elfanbaum](https://github.com/noamelf) at [noamelf](http://noamelf.com/)
 
-## Next: 2018.01.16 - [Python Pair Programming with TDD Workshop](https://www.meetup.com/PyWeb-IL/events/246150120/)
+## Upcoming: 2018.02.13 - [Mocking in Python as a testing tool - Workshop](https://www.meetup.com/PyWeb-IL/events/246802670/)
+
+* Gabor Szabo
+
+## Upcoming: 2018.02.05 - [#73](https://www.meetup.com/PyWeb-IL/events/246639354/)
+
+* Benny Daon: Django custom Model fields by example (45 mins)
+* Yotam Manor: Application Level Blue/Green Deployments With Django (30 mins)
+* Aur Saraf: F??king Spectre, how does it work? (30 mins)
+
+## 2018.01.16 - [Python Pair Programming with TDD Workshop](https://www.meetup.com/PyWeb-IL/events/246150120/)
 
 * Gabor Szabo
 
