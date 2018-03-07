@@ -11,11 +11,18 @@ Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](h
 
 * Gabor Szabo
 
+## 2018.05.07 - [#75 - Git, NoORM, Microservices](https://www.meetup.com/PyWeb-IL/events/248503393/)
+
+* Nick Terner: Useful Git (20 mins)
+* Meir Kriheli: NoORM (30 mins)
+* Erik Asepha: Microservices: Splitting the Monolith the DDD Way (40 mins)
+
 ## 2018.03.05 - [#74](https://www.meetup.com/PyWeb-IL/events/247578175/)
 
-* Noam Elfanbaum: Python performance profiling (30 mins)
-* Miki Tebeka: 4 Languages You Should Learn (40 min)
-* Erik Ashepa: Microservices: Splitting the Monolith the DDD Way (40 mins)
+* Noam Elfanbaum: Python performance profiling [slides](https://docs.google.com/presentation/d/1J6xFYMnt8-esphMg-pXlikUc-_i7YP_FkcG6Gp2g1Ig/edit#slide=id.p3) [code](https://github.com/noamelf/profiling-python-talk) (30 mins)
+* Miki Tebeka: [4 Languages You Should Learn](https://tebeka.github.io/4-langs/) (40 min)
+* Asher Sterkin: [Shaping serverless architecture with domain driven design patterns](https://www.slideshare.net/AsherSterkin/shaping-serverless-architecture-with-domain-driven-design-patterns-py-webil) (30 mins)
+
 
 ## 2018.02.05 - [#73](https://www.meetup.com/PyWeb-IL/events/246639354/)
 
