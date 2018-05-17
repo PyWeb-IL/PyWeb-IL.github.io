@@ -7,15 +7,23 @@ To contribute to this page [fork me](https://github.com/PyWeb-IL/PyWeb-IL.github
 
 Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](https://chipmunkdev.com/) and [Noam Elfanbaum](https://github.com/noamelf) at [noamelf](http://noamelf.com/)
 
-## Upcoming: 2018.???? - [Mocking in Python as a testing tool - Workshop](https://www.meetup.com/PyWeb-IL/events/246802670/)
+## 2018.07.02 - [#75](https://www.meetup.com/PyWeb-IL/events/250814110/)
+
+* Nir Cohen: Indepth logging, loggers and a reference implementation (40 mins)
+* Alon Nisser: SIGTERM and the art of gracefully shutting down services. (10 minutes)
+* Miki Tebeka: Unix command line tips & tricks (30min)
+
+## 2018.05.23 - [Mocking in Python as a testing tool - Workshop](https://www.meetup.com/PyWeb-IL/events/246802670/)
 
 * Gabor Szabo
 
+-----------------------------
+
 ## 2018.05.07 - [#75 - Git, NoORM, Microservices](https://www.meetup.com/PyWeb-IL/events/248503393/)
 
-* Nick Terner: Useful Git (20 mins)
-* Meir Kriheli: NoORM (30 mins)
-* Erik Asepha: Microservices: Splitting the Monolith the DDD Way (40 mins)
+* Nick Terner: [Useful Git](https://docs.google.com/presentation/d/1Z34yhquOYKUAdFMKXTBaODGdW3B1LOwhGX3bWKkdycU/edit) (20 mins)
+* Meir Kriheli: [NoORM](http://meirkriheli.com/talks/no-orm/#/) (30 mins)
+* Erik Asepha: [Microservices: Splitting the Monolith the DDD Way](https://www.slideshare.net/ErikAshepa/microservices-splitting-the-monolith-the-ddd-way) (40 mins)
 
 ## 2018.03.05 - [#74](https://www.meetup.com/PyWeb-IL/events/247578175/)
 
