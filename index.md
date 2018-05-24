@@ -13,11 +13,11 @@ Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](h
 * Alon Nisser: SIGTERM and the art of gracefully shutting down services. (10 minutes)
 * Miki Tebeka: Unix command line tips & tricks (30min)
 
+-----------------------------
+
 ## 2018.05.23 - [Mocking in Python as a testing tool - Workshop](https://www.meetup.com/PyWeb-IL/events/246802670/)
 
-* Gabor Szabo
-
------------------------------
+* Gabor Szabo: [Mocking in Python](https://code-maven.com/slides/python-mocking/)
 
 ## 2018.05.07 - [#75 - Git, NoORM, Microservices](https://www.meetup.com/PyWeb-IL/events/248503393/)
 
