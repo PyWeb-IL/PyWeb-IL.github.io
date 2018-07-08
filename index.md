@@ -7,13 +7,16 @@ To contribute to this page [fork me](https://github.com/PyWeb-IL/PyWeb-IL.github
 
 Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](https://chipmunkdev.com/) and [Noam Elfanbaum](https://github.com/noamelf) at [noamelf](http://noamelf.com/)
 
-## 2018.07.02 - [#75](https://www.meetup.com/PyWeb-IL/events/250814110/)
-
-* Nir Cohen: Indepth logging, loggers and a reference implementation (40 mins)
-* Alon Nisser: SIGTERM and the art of gracefully shutting down services. (10 minutes)
-* Miki Tebeka: Unix command line tips & tricks (30min)
+## [next](https://www.meetup.com/PyWeb-IL/)
 
 -----------------------------
+
+## 2018.07.02 - [#76](https://www.meetup.com/PyWeb-IL/events/250814110/)
+
+* Tal Einat: [Quality, inspired by Zen and the Art of Motorcycle Maintenance](https://docs.google.com/presentation/d/1KiyjksIrmkUOZw8b0OpDTOvdEFnxyTuQML_tVmxPgoQ/edit) (20 mins)
+* Miki Tebeka: [Unix command line tips & tricks](https://github.com/tebeka/talks/tree/master/cmdline-friendly) (30min)
+* Shai Berger: [Hannukiot in Git](https://www.dropbox.com/s/cs7g5peaxmn7meb/git-menorahs-2.odp) (10 minutes)
+
 
 ## 2018.05.23 - [Mocking in Python as a testing tool - Workshop](https://www.meetup.com/PyWeb-IL/events/246802670/)
 
