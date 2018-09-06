@@ -11,6 +11,11 @@ Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](h
 
 -----------------------------
 
+## 2018.09.03 - [#77](https://www.meetup.com/PyWeb-IL/events/253000468/)
+
+* Tal Einat: [2to3: Upgrading a large, production Django app from Python 2.7 to 3.6.](https://taleinat.github.io/pyweb-il-77-2to3/) (30-40 mins)
+* Nick Terner: [Package management in Python and at large](https://docs.google.com/presentation/d/1BwOqd5g_IWgFAqTB3oc-J37LFKtI9wCekEPZiT-Yvvs/edit#slide=id.p) (60 mins)
+
 ## 2018.07.02 - [#76](https://www.meetup.com/PyWeb-IL/events/250814110/)
 
 * Tal Einat: [Quality, inspired by Zen and the Art of Motorcycle Maintenance](https://docs.google.com/presentation/d/1KiyjksIrmkUOZw8b0OpDTOvdEFnxyTuQML_tVmxPgoQ/edit) (20 mins)
