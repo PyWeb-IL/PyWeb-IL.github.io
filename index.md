@@ -9,6 +9,13 @@ Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](h
 
 ## [next](https://www.meetup.com/PyWeb-IL/)
 
+
+## 2018.12.10 - [#78](https://www.meetup.com/PyWeb-IL/events/255960438/)
+
+* Lior Mizrahi: I hate security - Bluetooth distance detection story (30 mins)
+* Benny Daon: Advanced Linux CLI (45 mins)
+
+
 -----------------------------
 
 ## 2018.09.03 - [#77](https://www.meetup.com/PyWeb-IL/events/253000468/)
