@@ -1,4 +1,4 @@
-# Web site of PyWeb-IL.
+# Web site of PyWeb-IL
 
 Monthly meetings about Python in general and Python for Web in particular in Tel Aviv-Yafo, Israel.
 For more details check out our [Meetup page](https://www.meetup.com/PyWeb-IL/).
@@ -6,6 +6,8 @@ For more details check out our [Meetup page](https://www.meetup.com/PyWeb-IL/).
 To contribute to this page [fork me](https://github.com/PyWeb-IL/PyWeb-IL.github.io).
 
 Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](https://chipmunkdev.com/) and [Noam Elfanbaum](https://github.com/noamelf) at [noamelf](http://noamelf.com/)
+
+# Upcoming events
 
 ## [next](https://www.meetup.com/PyWeb-IL/)
 
@@ -17,6 +19,8 @@ Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](h
 * Miki Tebeka: Why Vim is Awesome (30 min)
 
 -----------------------------
+
+# Past events
 
 ## 2018.12.10 - [#78](https://www.meetup.com/PyWeb-IL/events/255960438/)
 
