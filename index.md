@@ -9,6 +9,12 @@ Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](h
 
 ## [next](https://www.meetup.com/PyWeb-IL/)
 
+## 2019.01.07 - [#79](https://www.meetup.com/PyWeb-IL/events/257305259/)
+
+* Dropbox talk (10 mins)
+* Sivan Greenberg: ETL With Celery, MongoDB and RabbitMQ: Battle learned lesson (45 mins)
+* Alon Nisser: SIGTERM and the art of gracefully shutting down services. A lighting talk (10 minutes)
+* Miki Tebeka: Why Vim is Awesome (30 min)
 
 -----------------------------
 
@@ -16,7 +22,6 @@ Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](h
 
 * Lior Mizrahi: <a href="https://github.com/liormizr/linux_distance_locker">I hate security - Bluetooth distance detection story</a> (30 mins)
 * Benny Daon: <a href="https://github.com/daonb/unix-evolution">Advanced Linux CLI</a> (45 mins)
-
 
 
 ## 2018.09.03 - [#77](https://www.meetup.com/PyWeb-IL/events/253000468/)
