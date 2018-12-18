@@ -9,7 +9,7 @@ Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](h
 
 ## [next](https://www.meetup.com/PyWeb-IL/)
 
-## 2019.01.07 - [#79](https://www.meetup.com/PyWeb-IL/events/257305259/)
+## 2019.01.07 - [#79 - Dropbox: RabbitMQ, Sigterm, and Vim](https://www.meetup.com/PyWeb-IL/events/257305259/)
 
 * Dropbox talk (10 mins)
 * Sivan Greenberg: ETL With Celery, MongoDB and RabbitMQ: Battle learned lesson (45 mins)
