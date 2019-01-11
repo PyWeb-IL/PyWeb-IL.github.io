@@ -11,16 +11,17 @@ Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](h
 
 ## [next](https://www.meetup.com/PyWeb-IL/)
 
-## 2019.01.07 - [#79 - Dropbox: RabbitMQ, Sigterm, and Vim](https://www.meetup.com/PyWeb-IL/events/257305259/)
-
-* Dropbox talk (10 mins)
-* Sivan Greenberg: ETL With Celery, MongoDB and RabbitMQ: Battle learned lesson (45 mins)
-* Alon Nisser: SIGTERM and the art of gracefully shutting down services. A lighting talk (10 minutes)
-* Miki Tebeka: Why Vim is Awesome (30 min)
-
 -----------------------------
 
 # Past events
+
+## 2019.01.07 - [#79 - Dropbox: RabbitMQ, Sigterm, and Vim](https://www.meetup.com/PyWeb-IL/events/257305259/)
+
+* Dropbox talk (10 mins)
+* Sivan Greenberg: [ETL With Celery, MongoDB and RabbitMQ: Battle learned lesson](https://www.dropbox.com/s/usuonn1cmq1t8b3/ETL_PyWebIL_2018.pdf?dl=0) (45 mins)
+* Alon Nisser: [SIGTERM and the art of gracefully shutting down services. A lighting talk](https://alonisser.github.io/sigterm-talk/#1) (10 minutes)
+* Miki Tebeka: [Why Vim is Awesome](https://github.com/tebeka/talks/tree/master/vim-rocks) (30 min)
+
 
 ## 2018.12.10 - [#78](https://www.meetup.com/PyWeb-IL/events/255960438/)
 
