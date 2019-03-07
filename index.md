@@ -11,13 +11,17 @@ Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](h
 
 ## [next](https://www.meetup.com/PyWeb-IL/)
 
-## 2019.03.04 - [#80: Airflow, Productionization, setup.py](https://www.meetup.com/PyWeb-IL/events/258702085)
-
 * Noam Elfanbaum: Airflow - the Django of backoffice tasks (30 mins)
 * Yehuda Deutsch: Productionization of python projects (30 mins)
-* Moshe Nahmias: setup.py (30 mins)
+
 
 -----------------------------
+
+## 2019.03.04 - [#80: Airflow, Productionization, setup.py](https://www.meetup.com/PyWeb-IL/events/258702085)
+
+* Moshe Nahmias: [setup.py](https://www.dropbox.com/s/glyg94y45e4p8tk/setup.py.pdf?dl=0) (30 mins)
+* Mark Geyzer: [My enum module](https://notebooks.azure.com/volcano63/projects/Collection/html/Enumerator.ipynb)
+* David Bordeynik: [Becoming a 10x Python developer](https://drive.google.com/file/d/1SQQczwVQ3wF-6_3DVQvET3rEBk0BQePW/view) (30 min)
 
 # Past events
 
