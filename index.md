@@ -11,9 +11,11 @@ Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](h
 
 ## [next](https://www.meetup.com/PyWeb-IL/)
 
-* Noam Elfanbaum: Airflow - the Django of backoffice tasks (30 mins)
-* Yehuda Deutsch: Productionization of python projects (30 mins)
+## 2019.05.06 - [#81: DevPi, TypeScript, post-Guido](https://www.meetup.com/PyWeb-IL/events/259558201/)
 
+* Benny Daon: devpi, your very own cheeseshop (30 mins)
+* Keren Kenzi: Intro to Typescript (30 mins)
+* Tal Einat: Python after Guido: The new governance model (30 mins)
 
 -----------------------------
 
