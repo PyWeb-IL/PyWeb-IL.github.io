@@ -13,6 +13,12 @@ Maintainer of this page is [Gabor Szabo](https://szabgab.com/) of [Host Local Tr
 
 ## [next](https://www.meetup.com/PyWeb-IL/)
 
+## 2019.06.02-06 [PyCon IL 2019](https://il.pycon.org/2019/)
+
+* June 2 Django Girls
+* June 3-4 Main Conference
+* June 5 Workshops Day
+
 ## 2019.05.06 - [#81: DevPi, TypeScript, post-Guido](https://www.meetup.com/PyWeb-IL/events/259558201/)
 
 * Benny Daon: devpi, your very own cheeseshop (30 mins)
