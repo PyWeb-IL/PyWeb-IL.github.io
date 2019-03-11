@@ -7,6 +7,8 @@ To contribute to this page [fork me](https://github.com/PyWeb-IL/PyWeb-IL.github
 
 Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](https://chipmunkdev.com/) and [Noam Elfanbaum](https://github.com/noamelf) at [noamelf](http://noamelf.com/)
 
+Maintainer of this page is [Gabor Szabo](https://szabgab.com/) of [Host Local Training](https://hostlocal.com/)
+
 # Upcoming events
 
 ## [next](https://www.meetup.com/PyWeb-IL/)
