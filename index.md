@@ -26,6 +26,7 @@ Maintainer of this page is [Gabor Szabo](https://szabgab.com/) of [Host Local Tr
 * Tal Einat: Python after Guido: The new governance model (30 mins)
 
 -----------------------------
+# Past events
 
 ## 2019.03.04 - [#80: Airflow, Productionization, setup.py](https://www.meetup.com/PyWeb-IL/events/258702085)
 
@@ -33,7 +34,6 @@ Maintainer of this page is [Gabor Szabo](https://szabgab.com/) of [Host Local Tr
 * Mark Geyzer: [My enum module](https://notebooks.azure.com/volcano63/projects/Collection/html/Enumerator.ipynb)
 * David Bordeynik: [Becoming a 10x Python developer](https://drive.google.com/file/d/1SQQczwVQ3wF-6_3DVQvET3rEBk0BQePW/view) (30 min)
 
-# Past events
 
 ## 2019.01.07 - [#79 - Dropbox: RabbitMQ, Sigterm, and Vim](https://www.meetup.com/PyWeb-IL/events/257305259/)
 
