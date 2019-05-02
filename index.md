@@ -19,6 +19,12 @@ Maintainer of this page is [Gabor Szabo](https://szabgab.com/) of [Host Local Tr
 * June 3-4 Main Conference
 * June 5 Workshops Day
 
+
+## 2019.05.28 - [Fixtures and Test Doubles in Pytest - Workshop](https://www.meetup.com/Code-Mavens/events/260824123/)
+
+* [Fixtures and Test Doubles in Pytest - Workshop](https://workshops.code-maven.com/fixtures-and-test-doubles-in-python)
+
+
 ## 2019.05.06 - [#81: DevPi, TypeScript, post-Guido](https://www.meetup.com/PyWeb-IL/events/259558201/)
 
 * Benny Daon: devpi, your very own cheeseshop (30 mins)
