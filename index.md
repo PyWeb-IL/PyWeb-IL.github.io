@@ -24,15 +24,15 @@ Maintainer of this page is [Gabor Szabo](https://szabgab.com/) of [Host Local Tr
 
 * [Fixtures and Test Doubles in Pytest - Workshop](https://workshops.code-maven.com/fixtures-and-test-doubles-in-python)
 
+-----------------------------
+# Past events
 
 ## 2019.05.06 - [#81: DevPi, TypeScript, post-Guido](https://www.meetup.com/PyWeb-IL/events/259558201/)
 
-* Benny Daon: devpi, your very own cheeseshop (30 mins)
-* Keren Kenzi: Intro to Typescript (30 mins)
-* Tal Einat: Python after Guido: The new governance model (30 mins)
+* Benny Daon: devpi, your very own cheeseshop (30 mins) [Slides](https://slides.com/daonb/devpi) [Video](https://www.youtube.com/watch?v=To1WtI2Yc6w)
+* Keren Kenzi: Intro to Typescript (30 mins) [Slides](https://www.dropbox.com/s/5fley7jupvsfznb/TypeScript.pptx?dl=0) [Video](https://www.youtube.com/watch?v=walgx_nu-_E)
+* Ram Rachum: PySnooper, PuDB, and a PEP idea (20 mins) [Project](https://github.com/cool-RR/PySnooper/) [Video](https://www.youtube.com/watch?v=wPY7TIFZ-VI)
 
------------------------------
-# Past events
 
 ## 2019.03.04 - [#80: Airflow, Productionization, setup.py](https://www.meetup.com/PyWeb-IL/events/258702085)
 
