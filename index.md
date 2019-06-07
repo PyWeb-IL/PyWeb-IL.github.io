@@ -13,7 +13,7 @@ Maintainer of this page is [Gabor Szabo](https://szabgab.com/) of [Host Local Tr
 
 ## [next](https://www.meetup.com/PyWeb-IL/)
 
-## 2019.07.01 - [#82: Productionization, Serialization, and post-Guido Governation](https://www.meetup.com/PyWeb-IL/events/261378847/)
+## 2019.07.04 - [#82: Productionization, Serialization, and post-Guido Governation](https://www.meetup.com/PyWeb-IL/events/261378847/)
 
 * Yehuda Deutsch: Productionization of python projects (30 mins)
 * Miki Tebeka: Python Serialization landscape (40 mins)
