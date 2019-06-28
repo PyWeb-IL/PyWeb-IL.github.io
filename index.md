@@ -19,6 +19,11 @@ Maintainer of this page is [Gabor Szabo](https://szabgab.com/) of [Host Local Tr
 * Miki Tebeka: Python Serialization landscape (40 mins)
 * Tal Einat: Python after Guido: The new governance model (20-30 mins)
 
+
+-----------------------------
+# Past events
+
+
 ## 2019.06.02-06 [PyCon IL 2019](https://il.pycon.org/2019/)
 
 * June 2 Django Girls
@@ -29,9 +34,6 @@ Maintainer of this page is [Gabor Szabo](https://szabgab.com/) of [Host Local Tr
 ## 2019.05.28 - [Fixtures and Test Doubles in Pytest - Workshop](https://www.meetup.com/Code-Mavens/events/260824123/)
 
 * [Fixtures and Test Doubles in Pytest - Workshop](https://workshops.code-maven.com/fixtures-and-test-doubles-in-python)
-
------------------------------
-# Past events
 
 ## 2019.05.06 - [#81: DevPi, TypeScript, post-Guido](https://www.meetup.com/PyWeb-IL/events/259558201/)
 
