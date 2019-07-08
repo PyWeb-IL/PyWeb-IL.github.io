@@ -13,16 +13,16 @@ Maintainer of this page is [Gabor Szabo](https://szabgab.com/) of [Host Local Tr
 
 ## [next](https://www.meetup.com/PyWeb-IL/)
 
-## 2019.07.04 - [#82: Productionization, Serialization, and post-Guido Governation](https://www.meetup.com/PyWeb-IL/events/261378847/)
-
-* Yehuda Deutsch: Productionization of python projects (30 mins)
-* Miki Tebeka: Python Serialization landscape (40 mins)
-* Tal Einat: Python after Guido: The new governance model (20-30 mins)
-
 
 -----------------------------
 # Past events
 
+
+## 2019.07.04 - [#82: Productionization, Serialization, and post-Guido Governation](https://www.meetup.com/PyWeb-IL/events/261378847/)
+
+* Yehuda Deutsch: [Your command is my command (Command line in Python)](https://uda.gitlab.io/talks/2019-07-pyweb-il-cli/) (30 mins)
+* Miki Tebeka: [Python Serialization landscape](https://tebeka.github.io/talks/serialize-pyweb/slides/index.html) (40 mins)
+* Tal Einat: [Python after Guido: The new governance model](https://www.dropbox.com/s/3iw2wz06befg2t5/Tal%20Einat%20-%20Python%20Governance.pptx?dl=0) (20-30 mins)
 
 ## 2019.06.02-06 [PyCon IL 2019](https://il.pycon.org/2019/)
 
