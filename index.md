@@ -30,6 +30,8 @@ Maintainer of this page is [Gabor Szabo](https://szabgab.com/) of [Host Local Tr
 * June 3-4 Main Conference
 * June 5 Workshops Day
 
+* [Videos from PyConIL 2019](https://www.youtube.com/channel/UC-SbPEAZ4Ik2cowdR_Wyfag)
+
 
 ## 2019.05.28 - [Fixtures and Test Doubles in Pytest - Workshop](https://www.meetup.com/Code-Mavens/events/260824123/)
 
