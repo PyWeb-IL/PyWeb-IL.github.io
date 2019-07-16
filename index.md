@@ -13,6 +13,12 @@ Maintainer of this page is [Gabor Szabo](https://szabgab.com/) of [Host Local Tr
 
 ## [next](https://www.meetup.com/PyWeb-IL/)
 
+## 2019.09.02 - [#83: Config parsers, Airflow and Serverless](https://www.meetup.com/PyWeb-IL/events/263188437/)
+
+* David Bordeynik: Why All Config Parsers Suck (30 mins)
+* Noam Elfanbaum: Airflow - the Django of backoffice tasks (30 mins)
+* Asher Sterkin: Serverless Cloud Flow Programming in Python (40 mins)
+
 
 -----------------------------
 # Past events
