@@ -13,16 +13,14 @@ Maintainer of this page is [Gabor Szabo](https://szabgab.com/) of [Host Local Tr
 
 ## [next](https://www.meetup.com/PyWeb-IL/)
 
-## 2019.09.02 - [#83: Config parsers, Airflow and Serverless](https://www.meetup.com/PyWeb-IL/events/263188437/)
-
-* David Bordeynik: Why All Config Parsers Suck (30 mins)
-* Noam Elfanbaum: Airflow - the Django of backoffice tasks (30 mins)
-* Asher Sterkin: Serverless Cloud Flow Programming in Python (40 mins)
-
-
 -----------------------------
 # Past events
 
+## 2019.09.02 - [#83: Config parsers, Airflow and Serverless](https://www.meetup.com/PyWeb-IL/events/263188437/)
+
+* David Bordeynik: [Why All Config Parsers Suck](https://drive.google.com/file/d/15Ao3mWYiVs2Y4pHMdSYeFYJaCSJxGZvT/view) (30 mins)
+* Noam Elfanbaum: [From Zero to Airflow - bootstrapping a ML platform](https://docs.google.com/presentation/d/1J0frjnuehQKLjFEmHdQqM7kd89flUN3M1chLEvulvwM/view) (30 mins)
+* Asher Sterkin: [Serverless Cloud Flow Programming in Python](https://www.dropbox.com/s/awale353fz9usem/Serverless.pdf?dl=0) (40 mins)
 
 ## 2019.07.04 - [#82: Productionization, Serialization, and post-Guido Governation](https://www.meetup.com/PyWeb-IL/events/261378847/)
 
