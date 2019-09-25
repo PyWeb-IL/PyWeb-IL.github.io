@@ -13,6 +13,12 @@ Maintainer of this page is [Gabor Szabo](https://szabgab.com/) of [Host Local Tr
 
 ## [next](https://www.meetup.com/PyWeb-IL/)
 
+## 2019.11.04 - [#84: Environment Setup, CPython on GitHub, and music](https://www.meetup.com/PyWeb-IL/events/265117036/)
+
+* David Bordeynik: The Perfect Python Environment Setup (30 mins)
+* Tal Einat: CPython moved to GitHub, how does it work? (15 mins)
+* Ram Rachum: Live-coding a music synthesizer (45 mins)
+
 -----------------------------
 # Past events
 
