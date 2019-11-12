@@ -13,14 +13,21 @@ Maintainer of this page is [Gabor Szabo](https://szabgab.com/) of [Host Local Tr
 
 ## [next](https://www.meetup.com/PyWeb-IL/)
 
+## 2020.01.06 - [#85:  Blackbox testing, coding conventions, simulations](https://www.meetup.com/PyWeb-IL/events/266404898/)
+
+* Benny Daon: Black box testing (30 mins)
+* Agam Rafaeli: How maintaining coding conventions saved my mental sanity (30 mins)
+* Eran Friedman: Boosting simulation performance with Python (35 mins)
+
+-----------------------------
+# Past events
+
 ## 2019.11.04 - [#84: Environment Setup, CPython on GitHub, and music](https://www.meetup.com/PyWeb-IL/events/265117036/)
 
 * David Bordeynik: The Perfect Python Environment Setup (30 mins)
 * Tal Einat: CPython moved to GitHub, how does it work? (15 mins)
 * Ram Rachum: Live-coding a music synthesizer (45 mins)
 
------------------------------
-# Past events
 
 ## 2019.09.02 - [#83: Config parsers, Airflow and Serverless](https://www.meetup.com/PyWeb-IL/events/263188437/)
 
