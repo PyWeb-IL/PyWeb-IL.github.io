@@ -24,9 +24,9 @@ Maintainer of this page is [Gabor Szabo](https://szabgab.com/) of [Host Local Tr
 
 ## 2019.11.04 - [#84: Environment Setup, CPython on GitHub, and music](https://www.meetup.com/PyWeb-IL/events/265117036/)
 
-* David Bordeynik: The Perfect Python Environment Setup (30 mins)
-* Tal Einat: CPython moved to GitHub, how does it work? (15 mins)
-* Ram Rachum: Live-coding a music synthesizer (45 mins)
+* David Bordeynik: [The Perfect Python Environment Setup](https://drive.google.com/file/d/1-p05EQ6GAaBzlDN51-GwWGTmnOChD_J5/view) [video](https://www.youtube.com/watch?v=duldKKruI3s) (30 mins)
+* Tal Einat: [CPython moved to GitHub, how does it work?](https://www.dropbox.com/s/72q2g5jiekbh647/CPython%20Workflow.pdf?dl=0) [video](https://www.youtube.com/watch?v=rZAIsTK9-nM) (15 mins)
+* Ram Rachum: [Live-coding a music synthesizer](https://github.com/cool-RR/python_synthesizer) [video](https://www.youtube.com/watch?v=m7S3xQ9sjTE) (45 mins)
 
 
 ## 2019.09.02 - [#83: Config parsers, Airflow and Serverless](https://www.meetup.com/PyWeb-IL/events/263188437/)
