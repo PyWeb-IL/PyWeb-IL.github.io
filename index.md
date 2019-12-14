@@ -13,6 +13,10 @@ Maintainer of this page is [Gabor Szabo](https://szabgab.com/) of [Host Local Tr
 
 ## [next](https://www.meetup.com/PyWeb-IL/)
 
+
+## 2019.12.15 - [Django 3.0 release party](https://www.meetup.com/PyWeb-IL/events/266968025)
+
+
 ## 2020.01.06 - [#85:  Blackbox testing, coding conventions, simulations](https://www.meetup.com/PyWeb-IL/events/266404898/)
 
 * Benny Daon: Black box testing (30 mins)
