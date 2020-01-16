@@ -13,15 +13,21 @@ Maintainer of this page is [Gabor Szabo](https://szabgab.com/) of [Host Local Tr
 
 ## [next](https://www.meetup.com/PyWeb-IL/)
 
+## 2020.03.05 - [#86: Django i18n, Rust, class optimization](https://www.meetup.com/PyWeb-IL/events/267905910/)
 
-## 2020.01.06 - [#85:  Blackbox testing, coding conventions, simulations](https://www.meetup.com/PyWeb-IL/events/266404898/)
-
-* Benny Daon: Black box testing (30 mins)
-* Agam Rafaeli: How maintaining coding conventions saved my mental sanity (30 mins)
-* Eran Friedman: Boosting simulation performance with Python (35 mins)
+* Uri Rodberg: Translating strings in Django 2.2+ to Hebrew (25 mins)
+* Meir Kriheli: tRust the process (45 mins)
+* Eli Gur: Make your classes faster and leaner (45 mins)
 
 -----------------------------
 # Past events
+
+
+## 2020.01.06 - [#85:  Blackbox testing, coding conventions, simulations](https://www.meetup.com/PyWeb-IL/events/266404898/)
+
+* Benny Daon: [Black box testing](https://www.dropbox.com/s/wlikyuvbvdq7zqp/Micro%20Black%20Boxes.pdf?dl=0) [Code](https://www.dropbox.com/s/3y1z8rhix7kgo03/validator.tar?dl=0) (30 mins)
+* Agam Rafaeli: [How maintaining coding conventions saved my mental sanity](https://docs.google.com/presentation/d/1MvT9p4BxswyJ9RXUmwXLN8dSHE9bdFDkopnQePGinyA) (30 mins)
+* Eran Friedman: [Boosting simulation performance with Python](https://www.dropbox.com/s/4ln0cwprkzt96hf/Boosting%20simulation%20performance%20with%20Python.pdf?dl=0) (35 mins)
 
 ## 2019.12.15 - [Django 3.0 release party](https://www.meetup.com/PyWeb-IL/events/266968025)
 
