@@ -13,6 +13,9 @@ Maintainer of this page is [Gabor Szabo](https://szabgab.com/) of [Host Local Tr
 
 ## [next](https://www.meetup.com/PyWeb-IL/)
 
+PyCon 2020 is happening on May 4-5 at the Wohl Center in Ramat Gan and workshops on May 6.
+
+
 ## 2020.03.05 - [#86: Django i18n, Rust, class optimization](https://www.meetup.com/PyWeb-IL/events/267905910/)
 
 * Uri Rodberg: Translating strings in Django 2.2+ to Hebrew (25 mins)
