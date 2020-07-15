@@ -13,17 +13,13 @@ Maintainer of this page is [Gabor Szabo](https://szabgab.com/) of [Host Local Tr
 
 ## [next](https://www.meetup.com/PyWeb-IL/)
 
-PyCon 2020 is happening on May 4-5 at the Wohl Center in Ramat Gan and workshops on May 6.
-
-
-## 2020.03.05 - [#86: Django i18n, Rust, class optimization](https://www.meetup.com/PyWeb-IL/events/267905910/)
-
-* Uri Rodberg: Translating strings in Django 2.2+ to Hebrew (25 mins)
-* Meir Kriheli: tRust the process (45 mins)
-* Eli Gur: Make your classes faster and leaner (45 mins)
-
 -----------------------------
 # Past events
+
+## 2020.07.06 - [#86: Bauhaus and class optimization](https://www.meetup.com/PyWeb-IL/events/269345861/)
+
+* Dan Gittik: [Bauhaus Software Architecture](https://docs.google.com/presentation/d/1peVWsAk2mWNz0FBAuUmY48Yo7QRvulzGzqZgguzq3R0/edit) [video](https://www.youtube.com/watch?v=a0_5EkI4Qu0) (30 mins)
+* Eli Gur: [Make your classes faster and leaner](https://www.dropbox.com/s/yfmxi7jn5l3av1x/2020-07-06%20Eli%20Gur%2C%20Effective%20Python%20Classes.pdf?dl=0) [video](https://www.youtube.com/watch?v=-DLXKUOaR-s) (45 mins)
 
 
 ## 2020.01.06 - [#85:  Blackbox testing, coding conventions, simulations](https://www.meetup.com/PyWeb-IL/events/266404898/)
