@@ -13,6 +13,11 @@ Maintainer of this page is [Gabor Szabo](https://szabgab.com/) of [Host Local Tr
 
 ## [next](https://www.meetup.com/PyWeb-IL/)
 
+## 2020.09.07 - [#87:](https://www.meetup.com/PyWeb-IL/events/272609396/)
+
+* Uri Rodberg: How I disabled the .delete() method from querysets in Django (25 mins)
+* Miki Tebeka: python -m (30 mins)
+
 -----------------------------
 # Past events
 
