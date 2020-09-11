@@ -18,8 +18,8 @@ Maintainer of this page is [Gabor Szabo](https://szabgab.com/) of [Host Local Tr
 
 ## 2020.09.07 - [#87:](https://www.meetup.com/PyWeb-IL/events/272609396/)
 
-* Tal Shahaf: How WhatsApp Works [slides](https://docs.google.com/presentation/d/1-skjMB6aqMWTrOzkgKogCBzxpDcYPXbRZPpZ6uf2bnE/edit) (45 mins)
-* Miki Tebeka: A Python quiz [slides](https://github.com/tebeka/talks/tree/master/pyweb-quiz) The book: [Python Brain Teasers](https://gumroad.com/l/iIQT) (30 mins)
+* Tal Shahaf: How WhatsApp Works [slides](https://docs.google.com/presentation/d/1-skjMB6aqMWTrOzkgKogCBzxpDcYPXbRZPpZ6uf2bnE/edit) [video](https://www.youtube.com/watch?v=FOLQTu_qBzg) (45 mins)
+* Miki Tebeka: A Python quiz [slides](https://github.com/tebeka/talks/tree/master/pyweb-quiz) The book: [Python Brain Teasers](https://gumroad.com/l/iIQT) [video](https://www.youtube.com/watch?v=LC9UvJSpIDo) (30 mins)
 
 
 ## 2020.07.06 - [#86: Bauhaus and class optimization](https://www.meetup.com/PyWeb-IL/events/269345861/)
