@@ -13,6 +13,13 @@ Maintainer of this page is [Gabor Szabo](https://szabgab.com/) of [Host Local Tr
 
 ## [next](https://www.meetup.com/PyWeb-IL/)
 
+
+## 2020.11.02 - [#88:](https://www.meetup.com/PyWeb-IL/events/273426130/)
+
+* Shai Berger: The design and development of Choices in Django 3.0 (30 mins)
+* Miki Tebeka: Embedding & Calling Python with 0 Serialization and ε Memory (40 min)
+
+
 -----------------------------
 # Past events
 
