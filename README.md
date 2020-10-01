@@ -1,4 +1,4 @@
-# PyWeb-IL website
+# PyWeb-IL website is an awesome project
 ## https://pyweb-il.github.io/
 
 * List presentations.
