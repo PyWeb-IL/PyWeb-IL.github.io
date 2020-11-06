@@ -14,14 +14,15 @@ Maintainer of this page is [Gabor Szabo](https://szabgab.com/) of [Host Local Tr
 ## [next](https://www.meetup.com/PyWeb-IL/)
 
 
-## 2020.11.02 - [#88:](https://www.meetup.com/PyWeb-IL/events/273426130/)
-
-* Shai Berger: The design and development of Choices in Django 3.0 (30 mins)
-* Miki Tebeka: Embedding & Calling Python with 0 Serialization and ε Memory (40 min)
-
-
 -----------------------------
 # Past events
+
+## 2020.11.02 - [#88:](https://www.meetup.com/PyWeb-IL/events/273426130/)
+
+* Shai Berger: The design and development of Choices in Django 3.0 (30 mins) [Slides](https://shaib.gitlab.io/public/files/Django-choices-Djangocon-2020.pdf) [Video](https://www.youtube.com/watch?v=eJixjihG6II)
+* Ram Rachum: GridRoyale, a life simulation for exploring social dynamics [Slides](https://www.dropbox.com/s/op6w5zo4569kjcx/GridRoyale.pptx?dl=0) [Video](https://www.youtube.com/watch?v=qOirWBZOJxQ)
+* Miki Tebeka: Embedding and Calling Python with 0 Serialization and ε Memory (40 min) [Slides](https://github.com/tebeka/talks/tree/master/embed-py) [Video](https://www.youtube.com/watch?v=39jo8WtsOF0)
+
 
 ## 2020.09.07 - [#87:](https://www.meetup.com/PyWeb-IL/events/272609396/)
 
