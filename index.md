@@ -13,6 +13,10 @@ Maintainer of this page is [Gabor Szabo](https://szabgab.com/) of [Host Local Tr
 
 ## [next](https://www.meetup.com/PyWeb-IL/)
 
+## 2021.01.04 - [#89:](https://www.meetup.com/PyWeb-IL/events/274652045/)
+
+* Miroslav Šedivý: A Day Has Only 24+-1 Hours (30 mins)
+* Aur Saraf: Using Cython to run a C++ synth with a Kivy frontend on Android (45 mins)
 
 -----------------------------
 # Past events
