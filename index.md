@@ -13,13 +13,14 @@ Maintainer of this page is [Gabor Szabo](https://szabgab.com/) of [Host Local Tr
 
 ## [next](https://www.meetup.com/PyWeb-IL/)
 
-## 2021.01.04 - [#89:](https://www.meetup.com/PyWeb-IL/events/274652045/)
-
-* Miroslav Šedivý: A Day Has Only 24+-1 Hours (30 mins)
-* Aur Saraf: Using Cython to run a C++ synth with a Kivy frontend on Android (45 mins)
-
 -----------------------------
 # Past events
+
+## 2021.01.04 - [#89:](https://www.meetup.com/PyWeb-IL/events/274652045/)
+
+* [Miroslav Šedivý](https://github.com/eumiro): A Day Has Only 24+-1 Hours (30 mins) [slides](https://speakerdeck.com/eumiro/a-day-has-only-24-1-hours-israel-2021-01-04) [video](https://www.youtube.com/watch?v=mHaz5laPyHE)
+* [Aur Saraf](https://www.linkedin.com/in/aursaraf/): Using Cython to run a C++ synth with a Kivy frontend on Android (45 mins) [video](https://www.youtube.com/watch?v=wFTBM8OwmC8)
+
 
 ## 2020.11.02 - [#88:](https://www.meetup.com/PyWeb-IL/events/273426130/)
 
