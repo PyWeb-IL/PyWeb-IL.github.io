@@ -13,6 +13,12 @@ Maintainer of this page is [Gabor Szabo](https://szabgab.com/) of [Host Local Tr
 
 ## [next](https://www.meetup.com/PyWeb-IL/)
 
+## 2021.03.01 - [#90: WebRTC and simulations](https://www.meetup.com/PyWeb-IL/events/275907259/)
+
+* Benny Daon: WebRTC - Real time communications for the web (30 mins)
+* Miki Tebeka: Simulations for the Mathematically Challenged (40 mins)
+
+
 -----------------------------
 # Past events
 
