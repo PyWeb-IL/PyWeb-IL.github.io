@@ -17,6 +17,11 @@ Maintainer of this page is [Gabor Szabo](https://szabgab.com/) of [Host Local Tr
 
 ## [next](https://www.meetup.com/PyWeb-IL/)
 
+## 2021.05.10 - [#91: Rust and string formatting](https://www.meetup.com/PyWeb-IL/events/276694179/)
+
+* Meir Kriheli: tRust the process (45 mins)
+* Miki Tebeka: So you think you can print? (25 mins)
+
 -----------------------------
 # Past events
 
