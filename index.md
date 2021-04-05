@@ -5,7 +5,7 @@ For more details check out our [Meetup page](https://www.meetup.com/PyWeb-IL/).
 
 To contribute to this page [fork me](https://github.com/PyWeb-IL/PyWeb-IL.github.io).
 
-Organizers: [Ram Rachum](https://github.com/cool-RR) of [Chipmunk Development](https://chipmunkdev.com/) and [Noam Elfanbaum](https://github.com/noamelf) at [noamelf](http://noamelf.com/)
+[Speakers and Organizers](/speakers)
 
 Maintainer of this page is [Gabor Szabo](https://szabgab.com/) of [Host Local Training](https://hostlocal.com/)
 
@@ -119,8 +119,8 @@ Maintainer of this page is [Gabor Szabo](https://szabgab.com/) of [Host Local Tr
 
 ## 2018.12.10 - [#78](https://www.meetup.com/PyWeb-IL/events/255960438/)
 
-* Lior Mizrahi: <a href="https://github.com/liormizr/linux_distance_locker">I hate security - Bluetooth distance detection story</a> (30 mins)
-* Benny Daon: <a href="https://github.com/daonb/unix-evolution">Advanced Linux CLI</a> (45 mins)
+* Lior Mizrahi: [I hate security](https://github.com/liormizr/linux_distance_locker) - Bluetooth distance detection story (30 mins)
+* Benny Daon: [Advanced Linux CLI](https://github.com/daonb/unix-evolution) (45 mins)
 
 
 ## 2018.09.03 - [#77](https://www.meetup.com/PyWeb-IL/events/253000468/)
