@@ -1,18 +1,18 @@
 # Speakers at the various events
 
-* Adam Kariv [Github](https://github.com/akariv)
-* Agam Rafaeli [LinkedIn](https://www.linkedin.com/in/agam-rafaeli-farhadian-038a901b/)
-* Alon Nisser [GitHub](https://github.com/alonisser)
+* Adam Kariv                       [GitHub](https://github.com/akariv)
+* Agam Rafaeli                     [Github](https://github.com/agamrafaeli) [LinkedIn](https://www.linkedin.com/in/agam-rafaeli-farhadian-038a901b/)
+* Alon Nisser                      [GitHub](https://github.com/alonisser)
 * Amir Miron
-* Amir Rachum
-* Amit Aronovitch
-* [Amit Nabarro](http://amitn.me/)
-* Asher Sterkin [SlideShare](https://www.slideshare.net/AsherSterkin/)
-* Aur Saraf [LinkedIn](https://www.linkedin.com/in/aursaraf/)
-* Benny Daon [Slides](https://slides.com/daonb/) [GitHub](https://github.com/daonb)
+* Amir Rachum                      [GitHub](https://github.com/Nurdok)
+* Amit Aronovitch                  [Github](https://github.com/AmitAronovitch)
+* [Amit Nabarro](http://amitn.me/) [GitHub](https://github.com/amitnabarro)
+* Asher Sterkin                                  [SlideShare](https://www.slideshare.net/AsherSterkin/)
+* Aur Saraf                        [GitHub](https://github.com/SonOfLilit) [LinkedIn](https://www.linkedin.com/in/aursaraf/)
+* Benny Daon                       [GitHub](https://github.com/daonb) [Slides](https://slides.com/daonb/)
 * Avraham Serour
-* Chen Rotem Levy [GitHub](https://github.com/chenl/)
-* Dan Gittik
+* Chen Rotem Levy                  [GitHub](https://github.com/chenl/)
+* Dan Gittik                       [GitHub](https://github.com/dan-gittik)
 * David Bordeynik
 * David Melamed [Twitter](https://twitter.com/dvdmelamed)
 * Doron Fediuck
