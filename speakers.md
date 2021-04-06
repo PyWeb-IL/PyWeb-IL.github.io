@@ -49,21 +49,21 @@
 * Paul Walsh
 * Rafael Bodill
 * Ram Rachum [GitHub](https://github.com/cool-RR) of [Chipmunk Development](https://chipmunkdev.com/) [blog](http://blog.ram.rachum.com/)
-* Ricardo Moreno [GitHub.io](https://ricardinho.github.io/)
-* Rony Sheer
-* Shai Berger [GitLab](https://shaib.gitlab.io/) [GitHub](https://github.com/shaib)
+* Ricardo Moreno [GitHub](https://github.com/ricardinho)
+* Rony Sheer [GitHub](https://github.com/ronysh)
+* Shai Berger [GitLab](https://gitlab.com/shaib) [GitHub](https://github.com/shaib)
 * Shay Halsband [SlideShare](https://www.slideshare.net/shyhalsband)
 * Sivan Greenberg
-* Tal Einat [GitHub.io](https://taleinat.github.io/) [GitHub](https://github.com/taleinat)
+* Tal Einat [GitHub](https://github.com/taleinat)
 * Tal Shahaf
 * Tom Gurion
 * Udi Bauman [Twitter](https://twitter.com/dibau_naum_h) [SpeakerDeck](https://speakerdeck.com/dibau_naum_h/)
 * Uri Even-Chen
 * Yehonatan Daniv [GitHub](https://github.com/ydaniv) [Slides](http://slides.com/ydaniv/)
-* Yehuda Deutsch [GitLab](https://uda.gitlab.io/)
+* Yehuda Deutsch [GitLab](https://gitlab.com/uda)
 * Yishai Beeri
 * Yoav Luft [GitHub](https://github.com/Luftzig/)
 * Yotam Gafni
 * Yotam Manor [Slides](https://slides.com/yotammanor)
 * Yuval Adam [Slides](http://slides.com/yuvadm/)
-* [Zohar Arad](http://www.zohararad.com/), [GitHub](http://zohararad.github.io)
+* [Zohar Arad](http://www.zohararad.com/), [GitHub](https://github.com/zohararad)
