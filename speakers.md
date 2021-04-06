@@ -1,15 +1,15 @@
 # Speakers at the various events
 
-* Adam Kariv
-* Agam Rafaeli [LinkedIn](https://www.linkedin.com/in/agam-rafaeli-038a901b/)
-* Alon Nisser [GitHub](https://alonisser.github.io/)
+* Adam Kariv [Github](https://github.com/akariv)
+* Agam Rafaeli [LinkedIn](https://www.linkedin.com/in/agam-rafaeli-farhadian-038a901b/)
+* Alon Nisser [GitHub](https://github.com/alonisser)
 * Amir Miron
 * Amir Rachum
 * Amit Aronovitch
 * [Amit Nabarro](http://amitn.me/)
 * Asher Sterkin [SlideShare](https://www.slideshare.net/AsherSterkin/)
-* Aur Saraf [LinkedIn](https://www.linkedin.com/in/aursaraf/) [SpeakerDeck](https://speakerdeck.com/oinopion/)
-* Benny Daon [Slidedeck](https://slides.com/daonb/) [GitHub](https://github.com/daonb/Advance)
+* Aur Saraf [LinkedIn](https://www.linkedin.com/in/aursaraf/)
+* Benny Daon [Slides](https://slides.com/daonb/) [GitHub](https://github.com/daonb)
 * Avraham Serour
 * Chen Rotem Levy [GitHub](https://github.com/chenl/)
 * Dan Gittik
@@ -22,9 +22,9 @@
 * Erik Asepha [SlidesShare](https://www.slideshare.net/ErikAshepa/)
 * Eyal Posener
 * Eyal Yavor
-* Gabor Szabo [Slides](https://code-maven.com/slides/)
-* Haki Benita [GitHub](https://github.com/hakib)
-* Idan Gazit
+* [Gabor Szabo](https://szabgab.com/) [GitHub](https://github.com/szabgab/) [GitLab](https://gitlab.com/szabgab) [Slides](https://code-maven.com/slides/)
+* [Haki Benita](https://hakibenita.com/) [GitHub](https://github.com/hakib)
+* Idan Gazit [Github](https://github.com/idan)
 * Keren Kenzi
 * Lior Mizrahi [GitHub](https://github.com/liormizr/)
 * Lior Neudorfer [Slides](http://slides.com/liorneudorfer/)
