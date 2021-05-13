@@ -23,8 +23,8 @@ Maintainer of this page is [Gabor Szabo](https://szabgab.com/) of [Host Local Tr
 
 ## 2021.05.10 - [#91: Rust and string formatting](https://www.meetup.com/PyWeb-IL/events/276694179/)
 
-* Meir Kriheli: tRust the process (45 mins) [slides](https://meirkriheli.com/talks/#trust-the-process)
-* Miki Tebeka: So you think you can print? (25 mins) [slides](https://github.com/tebeka/talks/tree/master/pyweb-print) [Terminal log](https://github.com/tebeka/talks/blob/master/pyweb-print/terminal.log)
+* Meir Kriheli: tRust the process (45 mins) [slides](https://meirkriheli.com/talks/#trust-the-process) [video](https://www.youtube.com/watch?v=XygLhh1Kcq8)
+* Miki Tebeka: So you think you can print? (25 mins) [slides](https://github.com/tebeka/talks/tree/master/pyweb-print) [Terminal log](https://github.com/tebeka/talks/blob/master/pyweb-print/terminal.log) [video](https://www.youtube.com/watch?v=wXZFy6HIRQA)
 
 
 ## 2021.03.01 - [#90: WebRTC and simulations](https://www.meetup.com/PyWeb-IL/events/275907259/)
