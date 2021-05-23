@@ -17,6 +17,11 @@ Maintainer of this page is [Gabor Szabo](https://szabgab.com/) of [Host Local Tr
 
 ## [next](https://www.meetup.com/PyWeb-IL/)
 
+## 2021.06.05 - [PyWeb-IL #92: Caching and Spark](https://www.meetup.com/PyWeb-IL/events/278338957/)
+
+* Alon Nisser: Using Spark with python: some tips and patterns (30 mins)
+* Aur Saraf: The Two Hard Things In Computer Science (45 mins)
+
 -----------------------------
 # Past events
 
