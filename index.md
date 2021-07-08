@@ -11,25 +11,24 @@ Maintainer of this page is [Gabor Szabo](https://szabgab.com/) of [Host Local Tr
 
 # Upcoming events
 
-## PyCon IL 2021
-
-* [PyCon IL](https://pycon.org.il/2021/)
-
 ## [next](https://www.meetup.com/PyWeb-IL/)
-
-## 2021.07.05 - [PyWeb-IL #92: Caching and Spark](https://www.meetup.com/PyWeb-IL/events/278338957/)
-
-* Alon Nisser: Using Spark with python: some tips and patterns (30 mins)
-* Aur Saraf: The Two Hard Things In Computer Science (45 mins)
 
 -----------------------------
 # Past events
 
+## 2021.07.05 - [PyWeb-IL #92: Caching and Spark](https://www.meetup.com/PyWeb-IL/events/278338957/)
+
+* Alon Nisser: Using Spark with python: some tips and patterns (30 mins) [slides](https://docs.google.com/presentation/d/e/2PACX-1vR2D4ZNyCWv1AM9Bb_96o2yvahL0IXtGL7klaxLpVo87weO4QTO-IyNwP1Td56KbSr9dCKnb31lah6D/pub) [video](https://www.youtube.com/watch?v=eEqVfy-aUq8)
+* Aur Saraf: The Two Hard Things In Computer Science (45 mins) [slides]( https://www.dropbox.com/s/775613gviiuv4h9/Cache%20Invalidation%20and%20Naming%20Things.pptx?dl=0) [video](https://www.youtube.com/watch?v=HtfS-WPqaqw)
 
 ## 2021.05.10 - [#91: Rust and string formatting](https://www.meetup.com/PyWeb-IL/events/276694179/)
 
 * Meir Kriheli: tRust the process (45 mins) [slides](https://meirkriheli.com/talks/#trust-the-process) [video](https://www.youtube.com/watch?v=XygLhh1Kcq8)
 * Miki Tebeka: So you think you can print? (25 mins) [slides](https://github.com/tebeka/talks/tree/master/pyweb-print) [Terminal log](https://github.com/tebeka/talks/blob/master/pyweb-print/terminal.log) [video](https://www.youtube.com/watch?v=wXZFy6HIRQA)
+
+## PyCon IL 2021 (2-3 May)
+
+* [PyCon IL](https://pycon.org.il/2021/)
 
 
 ## 2021.03.01 - [#90: WebRTC and simulations](https://www.meetup.com/PyWeb-IL/events/275907259/)
