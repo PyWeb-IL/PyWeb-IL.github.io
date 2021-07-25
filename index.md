@@ -13,6 +13,11 @@ Maintainer of this page is [Gabor Szabo](https://szabgab.com/) of [Host Local Tr
 
 ## [next](https://www.meetup.com/PyWeb-IL/)
 
+## 2021.09.13 - [PyWeb-IL #93: PostgreSQL indices and epistemology](https://www.meetup.com/PyWeb-IL/events/279673741/)
+
+* Haki Benita: Unlocking the full potential of PostgreSQL indexes in Django (40 mins)
+* Alon Nisser: Epistemology - reflections on what is a truthful representation of reality in the software world (30 mins)
+
 -----------------------------
 # Past events
 
