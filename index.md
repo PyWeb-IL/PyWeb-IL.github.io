@@ -13,13 +13,14 @@ Maintainer of this page is [Gabor Szabo](https://szabgab.com/) of [Host Local Tr
 
 ## [next](https://www.meetup.com/PyWeb-IL/)
 
-## 2021.09.13 - [PyWeb-IL #93: PostgreSQL indices and epistemology](https://www.meetup.com/PyWeb-IL/events/279673741/)
-
-* Haki Benita: Unlocking the full potential of PostgreSQL indexes in Django (40 mins)
-* Alon Nisser: Epistemology - reflections on what is a truthful representation of reality in the software world (30 mins)
-
 -----------------------------
 # Past events
+
+## 2021.09.13 - [PyWeb-IL #93: PostgreSQL indices and epistemology](https://www.meetup.com/PyWeb-IL/events/279673741/)
+
+* Haki Benita: Unlocking the full potential of PostgreSQL indexes in Django (40 mins) [Slides](https://www.dropbox.com/s/ty8nymnjd84wdm3/Working%20with%20APIs%20the%20pythonic%20way.pdf?dl=0)
+* Alon Nisser: Epistemology - reflections on what is a truthful representation of reality in the software world (30 mins) [Slides](https://speakerdeck.com/alonisser/epistemology-and-disks)
+
 
 ## 2021.07.05 - [PyWeb-IL #92: Caching and Spark](https://www.meetup.com/PyWeb-IL/events/278338957/)
 
