@@ -13,6 +13,12 @@ Maintainer of this page is [Gabor Szabo](https://szabgab.com/) of [Host Local Tr
 
 ## [next](https://www.meetup.com/PyWeb-IL/)
 
+
+## 2021.11.01 - [PyWeb-IL #94: Method chaining and Kubernetes](https://www.meetup.com/PyWeb-IL/events/281228099/)
+
+* Tal Einat: Method chaining in Python (30 mins)
+* Alon Nisser: Kubernetes CPU- Requests, limits and noisy neighbors (30 mins)
+
 -----------------------------
 # Past events
 
