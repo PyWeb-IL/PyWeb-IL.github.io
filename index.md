@@ -13,14 +13,14 @@ Maintainer of this page is [Gabor Szabo](https://szabgab.com/) of [Host Local Tr
 
 ## [next](https://www.meetup.com/PyWeb-IL/)
 
+-----------------------------
+# Past events
 
 ## 2021.11.01 - [PyWeb-IL #94: Method chaining and Kubernetes](https://www.meetup.com/PyWeb-IL/events/281228099/)
 
-* Tal Einat: Method chaining in Python (30 mins)
-* Alon Nisser: Kubernetes CPU- Requests, limits and noisy neighbors (30 mins)
+* Tal Einat: Method chaining in Python (30 mins) [Video](https://www.youtube.com/watch?v=jS3rGbVP8TM)
+* Alon Nisser: Kubernetes CPU- Requests, limits and noisy neighbors (30 mins) [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQFm6VDB5sPU4018mpMO-RSnjgTBG79YcFM_dTlJ8-i7BBF5zUOap9145_t-cqB05ffM9yJfg9pgaaP/pub?start=false&loop=false&delayms=10000) [Video](https://www.youtube.com/watch?v=A0kZorlt17s)
 
------------------------------
-# Past events
 
 ## 2021.09.13 - [PyWeb-IL #93: PostgreSQL indices and epistemology](https://www.meetup.com/PyWeb-IL/events/279673741/)
 
