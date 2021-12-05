@@ -13,6 +13,15 @@ Maintainer of this page is [Gabor Szabo](https://szabgab.com/) of [Host Local Tr
 
 ## [next](https://www.meetup.com/PyWeb-IL/)
 
+## 2022.01.03 - [PyWeb-IL #95: async.io and Pytest](https://www.meetup.com/PyWeb-IL/events/282467260/)
+
+TOU towers (Rubinstein twins), 34th floor Yitzhak Sade 4, Tel-Aviv
+Hosted by [DeepInstinct](https://www.deepinstinct.com/)
+
+* Eyal Balla: Python async.io [async.io] - From zero to hero (40 mins)
+* Amit Wertheimer: Managing complexity with Pytest - architecture, tips and struggles (40 mins)
+
+
 -----------------------------
 # Past events
 
