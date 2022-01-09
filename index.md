@@ -13,6 +13,11 @@ Maintainer of this page is [Gabor Szabo](https://szabgab.com/) of [Host Local Tr
 
 ## [next](https://www.meetup.com/PyWeb-IL/)
 
+## 2022.03.07 - [PyWeb-IL #96: PostgreSQL and property-based testing](https://www.meetup.com/PyWeb-IL/events/283152977/)
+
+* Amir More: Tweaking your PostgreSQL database for fun and profit (40 mins)
+* Shai Geva: Property-based testing (40 mins)
+
 -----------------------------
 # Past events
 
