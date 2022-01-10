@@ -23,8 +23,9 @@ Maintainer of this page is [Gabor Szabo](https://szabgab.com/) of [Host Local Tr
 
 ## 2022.01.03 - [PyWeb-IL #95: async.io and Pytest](https://www.meetup.com/PyWeb-IL/events/282467260/)
 
-* Eyal Balla: Python async.io [async.io] - From zero to hero (40 mins) [Slides](https://github.com/eyalballa/pyweb-il-asyncio)
-* Amir More: Postgresql in Theory and Practice. (50 mins) [Slides](https://www.dropbox.com/s/xuwmhbq2cc3i92p/PG%20Presentation%20for%20PyWebIL.pptx?dl=0)
+* Eyal Balla: Python async.io [async.io] - From zero to hero (40 mins) [Slides](https://github.com/eyalballa/pyweb-il-asyncio) [Video](https://www.youtube.com/watch?v=8XU3KTuDVZ0)
+* Amir More: Postgresql in Theory and Practice. (50 mins) [Slides](https://www.dropbox.com/s/xuwmhbq2cc3i92p/PG%20Presentation%20for%20PyWebIL.pptx?dl=0) [Video](https://www.youtube.com/watch?v=H2PnHxowNDg)
+
 
 ## 2021.11.01 - [PyWeb-IL #94: Method chaining and Kubernetes](https://www.meetup.com/PyWeb-IL/events/281228099/)
 
