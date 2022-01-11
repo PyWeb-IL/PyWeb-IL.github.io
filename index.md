@@ -3,6 +3,8 @@
 Monthly meetings about Python in general and Python for Web in particular in Tel Aviv-Yafo, Israel.
 For more details check out our [Meetup page](https://www.meetup.com/PyWeb-IL/).
 
+You are invited to [join the mailing list](https://groups.google.com/g/pyweb-il/).
+
 To contribute to this page [fork me](https://github.com/PyWeb-IL/PyWeb-IL.github.io).
 
 [Speakers and Organizers](/speakers)
