@@ -17,13 +17,39 @@ Maintainer of this page is [Gabor Szabo](https://szabgab.com/) of [Host Local Tr
 
 ## [next](https://www.meetup.com/PyWeb-IL/)
 
-## 2022.03.07 - [PyWeb-IL #96: PostgreSQL and property-based testing](https://www.meetup.com/PyWeb-IL/events/283152977/)
+Oops, here's the correct link for Aur's slides: https://www.dropbox.com/s/g1b60z0zu6uvmos/Regex%20-%20PyWebIL.pdf?dl=0 [www.dropbox.com]
 
-* Amir More: Tweaking your PostgreSQL database for fun and profit (40 mins)
-* Shai Geva: Property-based testing (40 mins)
+On Sun, May 8, 2022 at 11:24 AM Ram Rachum <ram@rachum.com> wrote:
+      Hi everyone!
+
+      I hope you enjoyed the meetup! Thanks to our speakers for giving the talks, to Gabor for helping me figure out Zoom, and to Moshe for uploading the videos.
+
+      Slides/Material from the talks:
+
+      Tal Einat: Federated Learning: A promising new method for privacy-preserving ML (AI) modelling
+Slides: https://www.dropbox.com/s/bgl23qjn5jpbwqq/PyWeb-IL%20%2379%20Using%20Health%20Data%20from%20Around%20the%20World%20Without%20Compromising%20Privacy%20Federated%20Learning.pdf?dl=0
+[www.dropbox.com]
+Video: https://www.youtube.com/watch?v=mCu8T3FZjAQ [www.youtube.com]
+
+Aur Saraf: Stand Back! I Know Regular Expressions (50 mins)
+Slides: https://www.dropbox.com/s/bgl23qjn5jpbwqq/PyWeb-IL%20%2379%20Using%20Health%20Data%20from%20Around%20the%20World%20Without%20Compromising%20Privacy%20Federated%20Learning.pdf?dl=0
+[www.dropbox.com]
+Video: https://www.youtube.com/watch?v=JyJDe04JPdY [www.youtube.com]
+
+
 
 -----------------------------
 # Past events
+
+## 2022.05.02 - [PyWeb-IL #97: Federated Learning and Regular Expressions](https://www.meetup.com/PyWeb-IL/events/284587211/)
+
+* Tal Einat: Federated Learning: A promising new method for privacy-preserving ML (AI) modelling [Slides](https://www.dropbox.com/s/bgl23qjn5jpbwqq/PyWeb-IL%20%2379%20Using%20Health%20Data%20from%20Around%20the%20World%20Without%20Compromising%20Privacy%20Federated%20Learning.pdf?dl=0) [Video](https://www.youtube.com/watch?v=mCu8T3FZjAQ)
+* Aur Saraf: Stand Back! I Know Regular Expressions (50 mins) [Slides](https://www.dropbox.com/s/g1b60z0zu6uvmos/Regex%20-%20PyWebIL.pdf?dl=0) [Video](https://www.youtube.com/watch?v=JyJDe04JPdY)
+
+## 2022.03.07 - [PyWeb-IL #96: PostgreSQL and property-based testing](https://www.meetup.com/PyWeb-IL/events/283152977/)
+
+* Shai Geva: Property-based testing (40 mins) [Slides, code and more](https://bit.ly/pyweb-il-2022) [Video](https://youtu.be/cyBu9WcBFhw)
+* Ram Rachum: Using Reinforcement Learning to understand our society [Slides](https://docs.google.com/presentation/d/1uBV2VkCfds_K3Aj7JimK1aE22AJSmLVoOg5oR4pOJU4/) [Hebrew video](https://youtu.be/I3PjFRzqeGo) [English video](https://youtu.be/WMVqYYarFkQ) [Mailing list for updates](https://groups.google.com/g/ram-rachum-research-announce)
 
 ## 2022.01.03 - [PyWeb-IL #95: async.io and Pytest](https://www.meetup.com/PyWeb-IL/events/282467260/)
 
