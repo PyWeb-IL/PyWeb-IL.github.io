@@ -17,27 +17,6 @@ Maintainer of this page is [Gabor Szabo](https://szabgab.com/) of [Host Local Tr
 
 ## [next](https://www.meetup.com/PyWeb-IL/)
 
-Oops, here's the correct link for Aur's slides: https://www.dropbox.com/s/g1b60z0zu6uvmos/Regex%20-%20PyWebIL.pdf?dl=0 [www.dropbox.com]
-
-On Sun, May 8, 2022 at 11:24 AM Ram Rachum <ram@rachum.com> wrote:
-      Hi everyone!
-
-      I hope you enjoyed the meetup! Thanks to our speakers for giving the talks, to Gabor for helping me figure out Zoom, and to Moshe for uploading the videos.
-
-      Slides/Material from the talks:
-
-      Tal Einat: Federated Learning: A promising new method for privacy-preserving ML (AI) modelling
-Slides: https://www.dropbox.com/s/bgl23qjn5jpbwqq/PyWeb-IL%20%2379%20Using%20Health%20Data%20from%20Around%20the%20World%20Without%20Compromising%20Privacy%20Federated%20Learning.pdf?dl=0
-[www.dropbox.com]
-Video: https://www.youtube.com/watch?v=mCu8T3FZjAQ [www.youtube.com]
-
-Aur Saraf: Stand Back! I Know Regular Expressions (50 mins)
-Slides: https://www.dropbox.com/s/bgl23qjn5jpbwqq/PyWeb-IL%20%2379%20Using%20Health%20Data%20from%20Around%20the%20World%20Without%20Compromising%20Privacy%20Federated%20Learning.pdf?dl=0
-[www.dropbox.com]
-Video: https://www.youtube.com/watch?v=JyJDe04JPdY [www.youtube.com]
-
-
-
 -----------------------------
 # Past events
 
