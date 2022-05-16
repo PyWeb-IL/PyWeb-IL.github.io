@@ -17,6 +17,12 @@ Maintainer of this page is [Gabor Szabo](https://szabgab.com/) of [Host Local Tr
 
 ## [next](https://www.meetup.com/PyWeb-IL/)
 
+## 2022.07.04 - [PyWeb-IL #98: Vulnerabilities and PostgreSQL](https://www.meetup.com/PyWeb-IL/events/285942509/)
+
+* About Viz.AI (10 mins)
+* Adam Gold: How I found and fixed a vulnerability in Python (40 mins)
+* Amir More: Cultural Learnings of PostgreSQL for Make Benefit Glorious Company Product (40 mins)
+
 -----------------------------
 # Past events
 
