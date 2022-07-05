@@ -17,14 +17,14 @@ Maintainer of this page is [Gabor Szabo](https://szabgab.com/) of [Host Local Tr
 
 ## [next](https://www.meetup.com/PyWeb-IL/)
 
+-----------------------------
+# Past events
+
 ## 2022.07.04 - [PyWeb-IL #98: Vulnerabilities and PostgreSQL](https://www.meetup.com/PyWeb-IL/events/285942509/)
 
 * About Viz.AI (10 mins)
-* Adam Gold: How I found and fixed a vulnerability in Python (40 mins)
-* Amir More: Cultural Learnings of PostgreSQL for Make Benefit Glorious Company Product (40 mins)
-
------------------------------
-# Past events
+* Adam Gold: How I found and fixed a vulnerability in Python (40 mins) [slides](https://docs.google.com/presentation/d/1a1Bo1TRl9C9QRy08W0qbzd-FmhhKXMvg99d60Ym1E3c/edit)
+* Miki Tebeka: python -m (30 mins) [slides](https://github.com/tebeka/talks/tree/master/pyweb-m)
 
 ## 2022.05.02 - [PyWeb-IL #97: Federated Learning and Regular Expressions](https://www.meetup.com/PyWeb-IL/events/284587211/)
 
