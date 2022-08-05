@@ -17,6 +17,17 @@ Maintainer of this page is [Gabor Szabo](https://szabgab.com/) of [Host Local Tr
 
 ## [next](https://www.meetup.com/PyWeb-IL/)
 
+## 2022.09.05 - [PyWeb-IL #99: PostgreSQL and Change Data Capture]( https://www.meetup.com/pyweb-il/events/287549158/)
+
+Location: Swimm, Frisch 5 Tel Aviv, 6th floor
+
+* About Swimm (10 mins)
+* Amir More: Cultural Learnings of PostgreSQL for Make Benefit Glorious Company Product (40 mins)
+* Alon Nisser: Change Data Capture (CDC) for advanced integration (30 mins)
+
+* This meetup is generously hosted by [Swimm](https://swimm.io/).
+
+
 -----------------------------
 # Past events
 
