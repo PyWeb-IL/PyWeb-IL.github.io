@@ -17,19 +17,19 @@ Maintainer of this page is [Gabor Szabo](https://szabgab.com/) of [Host Local Tr
 
 ## [next](https://www.meetup.com/PyWeb-IL/)
 
+
+-----------------------------
+# Past events
+
 ## 2022.09.12 - [PyWeb-IL #99: PostgreSQL and Git internals]( https://www.meetup.com/pyweb-il/events/287549158/)
 
 Location: Swimm, Frisch 5 Tel Aviv, 6th floor
 
 * About Swimm (10 mins)
-* Amir More: Cultural Learnings of PostgreSQL for Make Benefit Glorious Company Product (40 mins)
-* Aur Saraf: Git is a great design (45 mins)
+* Amir More: Cultural Learnings of PostgreSQL for Make Benefit Glorious Company Product (40 mins) [Slides](https://docs.google.com/presentation/d/1qrWRY5yOoHTT_WCSn4SxN44dAE80yF0JB2IvjDgjuu4/edit)
+* Aur Saraf: Git is a great design (45 mins) [Slides](https://www.dropbox.com/s/83n3ixj6xc95c9j/Aur%20git%20slides.pdf?dl=0)
 
 * This meetup is generously hosted by [Swimm](https://swimm.io/).
-
-
------------------------------
-# Past events
 
 ## 2022.07.04 - [PyWeb-IL #98: Vulnerabilities and PostgreSQL](https://www.meetup.com/PyWeb-IL/events/285942509/)
 
