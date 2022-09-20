@@ -17,11 +17,21 @@ Maintainer of this page is [Gabor Szabo](https://szabgab.com/) of [Host Local Tr
 
 ## [next](https://www.meetup.com/PyWeb-IL/)
 
+## 2022.11.14 - [PyWeb-IL #100: Chrome extensions and CDC](https://www.meetup.com/pyweb-il/events/288598977/)
+
+Location: Swimm, Frisch 3 Tel Aviv, 6th floor
+
+* About Swimm (10 mins)
+* Elad Silberring: Creating a Chrome browser extension (25 mins)
+* Alon Nisser: Change Data Capture (CDC) for advanced integration (30 mins)
+
+* This meetup is generously hosted by [Swimm](https://swimm.io/).
+
 
 -----------------------------
 # Past events
 
-## 2022.09.12 - [PyWeb-IL #99: PostgreSQL and Git internals]( https://www.meetup.com/pyweb-il/events/287549158/)
+## 2022.09.12 - [PyWeb-IL #99: PostgreSQL and Git internals](https://www.meetup.com/pyweb-il/events/287549158/)
 
 Location: Swimm, Frisch 5 Tel Aviv, 6th floor
 
