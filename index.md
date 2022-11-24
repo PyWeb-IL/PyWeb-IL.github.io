@@ -17,19 +17,28 @@ Maintainer of this page is [Gabor Szabo](https://szabgab.com/) of [Host Local Tr
 
 ## [next](https://www.meetup.com/PyWeb-IL/)
 
+## 2023.01.02 - [PyWeb-IL #101: Variable scope and HTML over the wire](https://www.meetup.com/pyweb-il/events/289904704/)
+
+Location: Swimm, Daniel Frisch St 3, 6th floor, Tel Aviv-Yafo
+
+* Miki Tebeka: Variable scope & closure (45 min)
+* Meir Kriheli: HTML over the wire (45 mins)
+
+* This meetup is generously hosted by [Swimm](https://swimm.io).
+
+-----------------------------
+# Past events
+
 ## 2022.11.14 - [PyWeb-IL #100: Chrome extensions and CDC](https://www.meetup.com/pyweb-il/events/288598977/)
 
 Location: Swimm, Frisch 3 Tel Aviv, 6th floor
 
 * About Swimm (10 mins)
-* Elad Silberring: Creating a Chrome browser extension (25 mins)
-* Alon Nisser: Change Data Capture (CDC) for advanced integration (30 mins)
+* Elad Silberring: Creating a Chrome browser extension (25 mins) - [slides](https://slides.com/cyber778/chrome-extensions)
+* Alon Nisser: Change Data Capture (CDC) for advanced integration (30 mins) - [slides](https://docs.google.com/presentation/d/1CzmuaPgeRJd0Y-wizdfEwRS6BaGUQVX582MoGG1x1bc/edit#slide=id.g164f8186007_4_74)
 
 * This meetup is generously hosted by [Swimm](https://swimm.io/).
 
-
------------------------------
-# Past events
 
 ## 2022.09.12 - [PyWeb-IL #99: PostgreSQL and Git internals](https://www.meetup.com/pyweb-il/events/287549158/)
 
