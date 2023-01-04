@@ -17,17 +17,18 @@ Maintainer of this page is [Gabor Szabo](https://szabgab.com/) of [Host Local Tr
 
 ## [next](https://www.meetup.com/PyWeb-IL/)
 
+-----------------------------
+# Past events
+
 ## 2023.01.02 - [PyWeb-IL #101: Variable scope and HTML over the wire](https://www.meetup.com/pyweb-il/events/289904704/)
 
 Location: Swimm, Daniel Frisch St 3, 6th floor, Tel Aviv-Yafo
 
-* Miki Tebeka: Variable scope & closure (45 min)
-* Meir Kriheli: HTML over the wire (45 mins)
+* Miki Tebeka: Variable scope & closure (45 min) [slides](https://github.com/tebeka/talks/tree/master/pyweb-scope)
+* Meir Kriheli: HTML over the wire (45 mins) [slides](https://meirkriheli.com/en/talks/#html-over-the-wire)
 
 * This meetup is generously hosted by [Swimm](https://swimm.io).
 
------------------------------
-# Past events
 
 ## 2022.11.14 - [PyWeb-IL #100: Chrome extensions and CDC](https://www.meetup.com/pyweb-il/events/288598977/)
 
