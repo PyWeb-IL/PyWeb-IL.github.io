@@ -17,18 +17,21 @@ Maintainer of this page is [Gabor Szabo](https://szabgab.com/) of [Host Local Tr
 
 ## [next](https://www.meetup.com/PyWeb-IL/)
 
+
+-----------------------------
+# Past events
+
+
 ## 2023.03.13 - [PyWeb-IL #102:  VisiData and test architecture](https://www.meetup.com/pyweb-il/events/291223193/)
 
 Location: Swimm, Daniel Frisch St 3, 6th floor, Tel Aviv-Yafo
 
-* Ram Rachum: VisiData: A Vim-like tool for data science in the terminal (35 mins)
-* Aur Saraf: Test architecture can make or break your project (45 mins)
+* Ram Rachum: VisiData: A Vim-like tool for data science in the terminal (35 mins) [slides](https://r.rachum.com/vd-deck)
+* Aur Saraf: Test architecture can make or break your project (45 mins) [slides](https://www.dropbox.com/s/dwxdj5m2b46alzg/Test%20Architecture%20pyweb.pdf?dl=1)
+
 
 * This meetup is generously hosted by [Swimm](https://swimm.io).
 
-
------------------------------
-# Past events
 
 ## 2023.01.02 - [PyWeb-IL #101: Variable scope and HTML over the wire](https://www.meetup.com/pyweb-il/events/289904704/)
 
