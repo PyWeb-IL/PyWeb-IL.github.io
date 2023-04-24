@@ -17,6 +17,19 @@ Maintainer of this page is [Gabor Szabo](https://szabgab.com/) of [Host Local Tr
 
 ## [next](https://www.meetup.com/PyWeb-IL/)
 
+## 2023.05.01 - [PyWeb-IL #103: Pandas and OpenEdX](https://www.meetup.com/pyweb-il/events/293084077/)
+
+Date and time: Monday, May 1, 2023 at 18:00
+
+Location: "Jerusalem" room at AWS, 28th floor, Azrieli Sarona, Derech Menachem Begin 121
+
+All the talks would be given in Hebrew.
+
+* Miki Tebeka: Faster Pandas: Make your Pandas code run faster and consume less memory (45 mins)
+* Roi Shillo: CampusIL Architecture: Deploying Enterprise-grade Django-based architecture for National Learning Environment based on OpenEdX (45 mins)
+
+This meetup is generously hosted by Amazon Web Services.
+
 
 -----------------------------
 # Past events
