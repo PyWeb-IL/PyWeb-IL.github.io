@@ -17,6 +17,16 @@ Maintainer of this page is [Gabor Szabo](https://szabgab.com/) of [Host Local Tr
 
 ## [next](https://www.meetup.com/PyWeb-IL/)
 
+## 2023.09.11 - [PyWeb-IL #104: CI/CD and Dash](https://www.meetup.com/pyweb-il/events/295608063)
+
+Date and time: Monday, September 11, 2023 at 18:00
+
+Location: Mobileye Tel Aviv, Mordekhai Anielewicz St 52 · Tel Aviv-Yafo
+
+* Alon Nisser: CI/CD and deployment freezes (35 mins)
+* Roman Olshanskiy and David Katz: Rapid Development of Big Data Analytics Apps using Dash (40 mins)
+
+
 -----------------------------
 # Past events
 
