@@ -17,18 +17,17 @@ Maintainer of this page is [Gabor Szabo](https://szabgab.com/).
 
 ## [next](https://www.meetup.com/PyWeb-IL/)
 
+-----------------------------
+# Past events
+
 ## 2023.09.11 - [PyWeb-IL #104: CI/CD and Dash](https://www.meetup.com/pyweb-il/events/295608063)
 
 Date and time: Monday, September 11, 2023 at 18:00
 
 Location: Mobileye Tel Aviv, Mordekhai Anielewicz St 52 · Tel Aviv-Yafo
 
-* Alon Nisser: CI/CD and deployment freezes (35 mins)
-* Roman Olshanskiy and David Katz: Rapid Development of Big Data Analytics Apps using Dash (40 mins)
-
-
------------------------------
-# Past events
+* Aur Saraf: Read Code Every Day [Slides](https://www.dropbox.com/scl/fi/5tnw6klwzojyh0rut3hr3/Read-Code-Every-Day.pdf?rlkey=5jzsnnfhoeg18wi4nk07egnt5&dl=0)
+* Roman Olshanskiy and David Katz: Rapid Development of Big Data Analytics Apps using Dash (40 mins) [Slides](https://www.dropbox.com/scl/fi/53kuljisri1w0auopjvfs/Pyweb_Mobileye_slides.pdf?rlkey=0gnkk90oyruoe3qms1c9yc5ba&dl=0)
 
 ## 2023.05.01 - [PyWeb-IL #103: Pandas and OpenEdX](https://www.meetup.com/pyweb-il/events/293084077/)
 
