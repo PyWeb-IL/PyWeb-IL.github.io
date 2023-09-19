@@ -11,7 +11,7 @@ To contribute to this page [fork this repo](https://github.com/PyWeb-IL/PyWeb-IL
 
 Slides are usually in English. Most of the presentations were given in Hebrew.
 
-Maintainer of this page is [Gabor Szabo](https://szabgab.com/) of [Host Local Training](https://hostlocal.com/)
+Maintainer of this page is [Gabor Szabo](https://szabgab.com/).
 
 # Upcoming events
 
